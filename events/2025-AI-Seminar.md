@@ -63,9 +63,9 @@ Please reach out if you are interested in presenting at a future event
 
 <a href="#top"> &#10558; Back to top</a>
 
-# Past Presentations
-
 ---
+
+# Past Presentations
 
 **Denoising Generative Modeling for Molecular Structures and Dynamics**
 
@@ -104,6 +104,8 @@ Fernanda has been in the intersection of scientific computing data wraggling for
 
 
 <a href="#top"> &#10558; Back to top</a>
+
+---
 
 # Organization
 
