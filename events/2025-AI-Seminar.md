@@ -20,26 +20,43 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 <a href="#top"> &#10558; Back to top</a>
 
-# Next Presentation
+# Next Presentations
 
-**Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation**
+**Accelerating Materials Discovery with AI**
 
-<br>Location: Virtual on MS Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 05/15/2025
-<br>Speaker: [Justin S. Smith](https://developer.nvidia.com/blog/author/jusmith/)
+<br>Location: room TBD and MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 06/26/2025
+<br>Speaker: [Christopher Sutton](https://www.suttonlabsc.com/about-me)
 
 |         |
 | ------- |
-| <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/11/cropped-justin-smith-540x540.jpg" width="270" /> |
-| Justin S. Smith, Ph.D.<br>Senior Developer Relations Manager <br>NVIDIA |
+| <img src="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/images/staff_photos/sutton_christopher/sutton_christopher.jpg" width="200" /> |
+| Christopher A. Sutton<br>Assistant Professor <br>University of South Carolina|
 
 **Abstract**
 
-This presentation delves into advancements and challenges in atomistic simulation for chemistry and materials science, focusing on three key themes. First, we explore batching techniques to improve simulation efficiency for high-throughput atomistic modeling. Second, we discuss issues in scaling Graph Neural Network (GNN)-based atomistic machine learning models for large-scale simulations, examining limitations and potential solutions. Third, we address the impact of training data selection and targets on improving model accuracy. By covering these topics, this presentation aims to provide an overview of our recent publications and the status of software tools development for AI-driven atomistic simulation, offering valuable insights and future directions for researchers and practitioners.
+Advances in materials science that drive technological innovation depend on a quantitative under-
+standing of atomic-scale phenomena and the chemical and physical processes they govern. Moreover,
+the predictive design of new materials for targeted applications requires identifying stable compositions
+and their corresponding crystal structures with ideal properties. Thus, a major hurdle in computational
+materials science is the development of robust structural models and accurate electronic structure pre-
+dictions that reliably connect theoretical calculations with experimental observations.
+
+In this talk, I will highlight recent advances in applying quantum mechanics (QM) and machine
+learning (ML) to discover new materials and model their properties, with the goal of accelerating inno-
+vative materials design for energy storage and generation. I will present our work using machine learning
+interatomic potentials to predict the structures of new materials (such as hybrid organic soft-lattice semi-
+conductors) and to provide atomistic insights into complex systems (such as novel anode materials for
+Li-ion batteries). In addition, generative models for materials discovery have recently shown promise in
+producing realistic crystal and molecular structures from random noise. I will discuss our recent efforts
+to use generative models to identify transition states and reaction pathways in heterogeneous catalysis,
+offering a potential alternative to the long-standing nudged elastic band (NEB) method. Finally, I will
+highlight how ML can circumvent costly electronic structure calculations by providing high-fidelity band
+structures, thereby improving our computational understanding of a material’s electronic properties.
 
 **Speaker Bio**
 
-Dr. Justin S. Smith, Ph.D. in computational chemistry from the University of Florida, is known for his pioneering work in the development of machine learning interatomic potentials (MLIPs). As a primary developer of the ANI class of MLIPs, Justin has significantly advanced the field of computational chemistry by creating models that accurately predict molecular properties and dynamics. In addition to his work on the ANI class of models, Justin contributed to the development of the AIMNet and HIP-NN family of models. His efforts in these areas have focused on improving the accuracy and efficiency of MLIPs, enabling more precise simulations of molecular systems. Justin has also been instrumental in advancing active learning techniques for robust dataset generation, which are crucial for training accurate and transferable MLIPs. In recent years, Justin has been managing NVIDIA's strategy in the AI for chemistry and materials science domain. In this role, he has been responsible for overseeing partnerships, prioritization, development and deployment relating to AI-driven tools and technologies that are transforming molecular and materials simulation across domains.
+Chris Sutton completed his PhD from Georgia Tech under the supervision of Jean-Luc Bredas. Afterwards, he did a brief postdoc with Weitao Yang at Duke University working on high fidelity eletronic structure methods. In 2015, he joined the Fritz-Haber Institute in Berlin as an Alexander von Humboldt postdoctoral fellow . In 2021, Chris joined the Chemistry/Biochemistry Department at the University of South Carolina. His research primarily focuses on combining computation and machine learning  to accelerate materials discovery.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -60,11 +77,32 @@ Please reach out if you are interested in presenting at a future event
 | 02-27-2025 | Virtual | Dong Li | University of California, Merced | Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models |
 | 04-03-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | What can we learn from a billion agents? |
 | 05-15-2025 | Virtual | Justin Smith| NVIDIA | Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation |
-| 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | TBD |
+| 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | Accelerating Materials Discovery with AI |
 
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
+
+**Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation**
+
+<br>Location: Virtual on MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 05/15/2025
+<br>Speaker: [Justin S. Smith](https://developer.nvidia.com/blog/author/jusmith/)
+
+|         |
+| ------- |
+| <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/11/cropped-justin-smith-540x540.jpg" width="270" /> |
+| Justin S. Smith, Ph.D.<br>Senior Developer Relations Manager <br>NVIDIA |
+
+**Abstract**
+
+This presentation delves into advancements and challenges in atomistic simulation for chemistry and materials science, focusing on three key themes. First, we explore batching techniques to improve simulation efficiency for high-throughput atomistic modeling. Second, we discuss issues in scaling Graph Neural Network (GNN)-based atomistic machine learning models for large-scale simulations, examining limitations and potential solutions. Third, we address the impact of training data selection and targets on improving model accuracy. By covering these topics, this presentation aims to provide an overview of our recent publications and the status of software tools development for AI-driven atomistic simulation, offering valuable insights and future directions for researchers and practitioners.
+
+**Speaker Bio**
+
+Dr. Justin S. Smith, Ph.D. in computational chemistry from the University of Florida, is known for his pioneering work in the development of machine learning interatomic potentials (MLIPs). As a primary developer of the ANI class of MLIPs, Justin has significantly advanced the field of computational chemistry by creating models that accurately predict molecular properties and dynamics. In addition to his work on the ANI class of models, Justin contributed to the development of the AIMNet and HIP-NN family of models. His efforts in these areas have focused on improving the accuracy and efficiency of MLIPs, enabling more precise simulations of molecular systems. Justin has also been instrumental in advancing active learning techniques for robust dataset generation, which are crucial for training accurate and transferable MLIPs. In recent years, Justin has been managing NVIDIA's strategy in the AI for chemistry and materials science domain. In this role, he has been responsible for overseeing partnerships, prioritization, development and deployment relating to AI-driven tools and technologies that are transforming molecular and materials simulation across domains.
+
+
 
 **What can we learn from a billion agents?**
 
