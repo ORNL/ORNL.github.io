@@ -186,9 +186,9 @@ Rio Yokota is a Professor at the Supercomputing Research Center, Institute of In
 </p>
 
 
-<h2><strong>Invited Talk (Min Si, Facebook AI):</strong></h2> <strong>TBD</strong>
+<h2><strong>Invited Talk (Min Si, Facebook AI):</strong></h2> <strong>High performance communication library and transport for LLM training at 100K+ Scale</strong>
 <p>
-TBD
+Each successive generation of the LLaMA model has demonstrated substantial growth in both model size and complexity. The largest multimodal mixture-of-experts model within our LLaMA4 series possesses nearly two trillion total parameters, with 288 billion active parameters and 16 experts. To accommodate the computational demands associated with training such a colossal model, we expanded our AI clusters, deploying approximately 100,000 GPUs. GPU-to-GPU communication latency is a critical factor when coordinating such a vast number of GPUs. Even microsecond delays accumulate across thousands of nodes, consequently impacting the time required for training. We engineered the underlying network infrastructure to provide the necessary backbone for high-speed GPU-to-GPU communication, concurrently innovating our communication library stack to enhance overall communication efficiency. In this presentation, we will provide an overview of the network topology deployed within Meta datacenters and introduce a range of communication optimizations and custom features that facilitated LLaMA4 training through cross-layer codesign, encompassing model algorithms, collectives, and extending to the network transport layer.
 </p>
 <p>
 Min Si is a Research Scientist at Facebook AI System SW/HW Co-design group. Her role is to investigate and resolve interesting scale-out challenges for Facebook AI workloads. Previously, she was an Assistant Computer Scientist at Argonne National Laboratory and working with the Programming Models and Runtime Systems group. Her research interests include communication runtime in high-performance computing, parallel programming models and runtime systems.
