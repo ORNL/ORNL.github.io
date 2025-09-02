@@ -30,7 +30,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 |         |
 | ------- |
-| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-10/Portrait%20-%20Yongqiang%20%28YQ%29%20Chen-102_sm.jpg?h=54b851a1&itok=m3ehEFgQ" width="100" /> |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-10/Portrait%20-%20Yongqiang%20%28YQ%29%20Chen-102_sm.jpg?h=54b851a1&itok=m3ehEFgQ" width="200" /> |
 | Yongqiang Cheng <br>Senior Staff Scientist <br>ORNL |
 
 **Abstract**
