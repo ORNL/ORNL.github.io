@@ -22,6 +22,52 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentations
 
+**AI-powered exploration of vibrational spectroscopy and materials discovery**
+
+<br>Location: room TBD and MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 09/18/2025
+<br>Speaker: [Yongqiang Cheng](https://www.ornl.gov/staff-profile/yongqiang-cheng)
+
+|         |
+| ------- |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-10/Portrait%20-%20Yongqiang%20%28YQ%29%20Chen-102_sm.jpg?h=54b851a1&itok=m3ehEFgQ" width="200" /> |
+| Yongqiang Cheng <br>Senior Staff Scientist <br>ORNL |
+
+**Abstract**
+Atomic vibrations are fundamental processes in materials and serve as sensitive indicators of their properties. These vibrations can be probed through a variety of spectroscopic techniques employing photons, electrons, or neutrons. However, interpreting spectral data and linking specific features to atomistic mechanisms, material properties, and fundamental insights remain significant challenges. In this presentation, I will highlight recent advances in applying AI and machine learning to accelerate and enrich spectral analysis. I will compare several methodological approaches, outlining their advantages, limitations, and underlying algorithms. The broader implications of these techniques for the future of vibrational spectroscopy will also be discussed. Finally, I will demonstrate how vibrational and thermal properties can be harnessed to guide generative models for targeted materials discovery and design.
+
+**Bio**
+Yongqiang Cheng obtained his PhD from Johns Hopkins University and joined the ORNL in 2011 as a Shull Fellow. He later continued at ORNL as a neutron scattering scientist specializing in spectroscopy. His current research focuses on integrating atomistic modeling, neutron scattering, and advanced data analysis techniques, including machine learning, to uncover and predict fundamental processes in materials.
+
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+
+# Schedule
+
+<!---
+The table should be update routein to reflect the upcoming events, and the past events should be at the bottom of the table.
+-->
+
+Please reach out if you are interested in presenting at a future event
+
+|      Date      |    Location    |        Name            |          Affilication           |      Talk      |
+| :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
+| 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
+| 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
+| 02-27-2025 | Virtual | Dong Li | University of California, Merced | Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models |
+| 04-03-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | What can we learn from a billion agents? |
+| 05-15-2025 | Virtual | Justin Smith| NVIDIA | Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation |
+| 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | Accelerating Materials Discovery with AI |
+| 09-18-2025 | On Site | Yongqiang Cheng | ORNL | AI-powered exploration of vibrational spectroscopy and materials discovery |
+| 09-25-2025 | Virtual | Nando Fioretto | University of Virginia | Constraint-Aware Diffusion Models for Reliable Scientific Design |
+| 10-02-2025 | On Site | Dayton Kizzire| ORNL | XsymNet, a framework for coupling deep learning and crystallographic group-theoretical methods |
+
+<a href="#top"> &#10558; Back to top</a>
+
+# Past Presentations
+
 **Accelerating Materials Discovery with AI**
 
 <br>Location: room TBD and MS Teams
@@ -58,33 +104,6 @@ structures, thereby improving our computational understanding of a material’s 
 
 Chris Sutton completed his PhD from Georgia Tech under the supervision of Jean-Luc Bredas. Afterwards, he did a brief postdoc with Weitao Yang at Duke University working on high fidelity eletronic structure methods. In 2015, he joined the Fritz-Haber Institute in Berlin as an Alexander von Humboldt postdoctoral fellow . In 2021, Chris joined the Chemistry/Biochemistry Department at the University of South Carolina. His research primarily focuses on combining computation and machine learning  to accelerate materials discovery.
 
-<a href="#top"> &#10558; Back to top</a>
-
----
-
-# Schedule
-
-<!---
-The table should be update routein to reflect the upcoming events, and the past events should be at the bottom of the table.
--->
-
-Please reach out if you are interested in presenting at a future event
-
-|      Date      |    Location    |        Name            |          Affilication           |      Talk      |
-| :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
-| 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
-| 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
-| 02-27-2025 | Virtual | Dong Li | University of California, Merced | Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models |
-| 04-03-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | What can we learn from a billion agents? |
-| 05-15-2025 | Virtual | Justin Smith| NVIDIA | Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation |
-| 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | Accelerating Materials Discovery with AI |
-| 09-18-2025 | On Site | Yongqiang Cheng | ORNL | AI for science: GNN and fine-tuning of foundation models |
-| 09-25-2025 | Virtual | Nando Fioretto | University of Virginia | Constraint-Aware Diffusion Models for Reliable Scientific Design |
-| 10-02-2025 | On Site | Dayton Kizzire| ORNL | XsymNet, a framework for coupling deep learning and crystallographic group-theoretical methods |
-
-<a href="#top"> &#10558; Back to top</a>
-
-# Past Presentations
 
 **Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation**
 
