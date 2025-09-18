@@ -85,11 +85,10 @@ aspects of LLM for HPC targets including (but not limited to):
 -->
 </p>
 
-
+<!--
 <h2>Steering Committee</h2>
 <p>
 <strong>TBD</strong><br>
-<!--
 <strong>Jeffrey S. Vetter</strong>, Oak Ridge National Laboratory, USA<br>
 </p>
 <p>
@@ -103,8 +102,8 @@ aspects of LLM for HPC targets including (but not limited to):
 </p>
 <p>
 <strong>Abhinav Bhatele</strong>, University of Maryland, USA<br>
--->
 </p>
+-->
 
 <h2>Organizers (Contact us)</h2>
 
@@ -114,7 +113,7 @@ Oak Ridge National Laboratory, USA<br>
 <i>valerolarap@ornl.gov</i>
 </p>
 <p>
-<strong>William F. Godoy</strong><br>
+<strong>William F. Godoy (co-chair)</strong><br>
 Oak Ridge National Laboratory, USA<br>
 <i>godoywf@ornl.gov</i>
 </p>
@@ -124,35 +123,43 @@ The Ohio State University, USA<br>
 <i>panda@cse.ohio-state.edu</i>
 </p>
 
-<h2>Programme Committee</h2>
-<strong>TBD</strong><br>
+<h2>Program Committee</h2>
 <!--
+<strong>TBD</strong><br>
+-->
 <ul>
-<li><strong>Samuel Williams</strong>, Lawrence Berkeley National Laboratory, USA</li>
+<li><strong>Franz Franchetti</strong>, Carnegie Mellon University, USA</li>
+<li><strong>Min Si</strong>, AI Facebook, USA</li>
+<li><strong>Patrick Diehl</strong>, Los Alamos National Laboratory, USA</li>
+<li><strong>Diego Andrade Canosa</strong>, University of A Coruna, Spain</li>
+<li><strong>Monil Mohammad Alaul Haque</strong>, Oak Ridge National Laboratory, USA</li>
+<li><strong>Tze-Meng Low</strong>, Carnegie Mellon University, USA</li>
+<li><strong>Keita Teranishi</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Hiroyuki Takizawa</strong>, Tohoku University, Japan</li>
-<li><strong>Gokcen Kestor</strong>, Barcelona Supercomputing Center, Spain</li>
-<li><strong>Prasanna Balaprakash</strong>, Oak Ridge National Laboratory, USA</li>
+<li><strong>Olivier Aumage</strong>, INRIA, France</li>
+<li><strong>Upasana Sridhar</strong>, Carnegie Mellon University, USA</li>
+<li><strong>Het Mankad</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Rabab Alomairy</strong>, Massachusetts Institute of Technology, USA</li>
+<li><strong>Jens Domke</strong>, RIKEN Center for Computational Science(R-CSS), Japan</li>
+<li><strong>Gokcen Kestor</strong>, Barcelona Supercomputing Center, Spain</li>
+<li><strong>Kshitij Srivastava</strong>, Aurora, USA</li>
+<!--
+<li><strong>Samuel Williams</strong>, Lawrence Berkeley National Laboratory, USA</li>
+<li><strong>Prasanna Balaprakash</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Johannes Blaschke</strong>, Lawrence Berkeley National Laboratory, USA</li>
 <li><strong>Ramakrishnan (Ramki) Kannan</strong>, Oak Ridge National Laboratory, USA</li>
-<li><strong>Olivier Aumage</strong>, INRIA, France</li>
 <li><strong>Ignacio Laguna</strong>, Lawrence Livermore National Laboratory, USA</li>
 <li><strong>Johannes Doerfert</strong>, Lawrence Livermore National Laboratory, USA</li>
-<li><strong>Monil Mohammad Alaul Haque</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Simon Garcia De Gonzalo</strong>, Sandia National Laboratory, USA</li>
-<li><strong>Diego Andrade Canosa</strong>, University of A Coruna, Spain</li>
-<li><strong>Tze-Meng Low</strong>, Carnegie Mellon University, USA</li>
 <li><strong>Dario Garcia Casulla</strong>, Barcelona Supercomputing Center, Spain</li>
 <li><strong>Michel Schanen</strong>, Argonne National Laboratory, USA</li>
-<li><strong>Keita Teranishi</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>William F. Godoy</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Damian Rouson</strong>, Lawrence Berkeley National Laboratory, USA</li>
-<li><strong>Jens Domke</strong>, RIKEN Center for Computational Science(R-CSS), Japan</li>
 <li><strong>Narasinga Rao Minskar</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Sunita Chandrasekaran</strong>, University of Delaware, USA</li>
 <li><strong>Arjun Guha</strong>, Northeastern University, USA</li>
-</ul>
 -->
+</ul>
 
 <h2>Manuscript submission</h2>
 <strong>TBD</strong><br>
