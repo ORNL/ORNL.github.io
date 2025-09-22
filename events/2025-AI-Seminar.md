@@ -22,23 +22,45 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentations
 
-**AI-powered exploration of vibrational spectroscopy and materials discovery**
+**Constraint-Aware Diffusion Models for Reliable Scientific Design**
 
-<br>Location: room TBD and MS Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 09/18/2025
-<br>Speaker: [Yongqiang Cheng](https://www.ornl.gov/staff-profile/yongqiang-cheng)
+<br>Location: MS Teams
+<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 09/25/2025
+<br>Speaker: [Ferdinando (Nando) Fioretto](https://nandofioretto.github.io/), 
 
 |         |
 | ------- |
-| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-10/Portrait%20-%20Yongqiang%20%28YQ%29%20Chen-102_sm.jpg?h=54b851a1&itok=m3ehEFgQ" width="200" /> |
-| Yongqiang Cheng <br>Senior Staff Scientist <br>ORNL |
+| <img src="https://nandofioretto.github.io/assets/img/head_syr.png" width="200" /> |
+| Ferdinando Fioretto<br> Assistant Professor of Computer Science <br>University of Virginia |
 
 **Abstract**
-Atomic vibrations are fundamental processes in materials and serve as sensitive indicators of their properties. These vibrations can be probed through a variety of spectroscopic techniques employing photons, electrons, or neutrons. However, interpreting spectral data and linking specific features to atomistic mechanisms, material properties, and fundamental insights remain significant challenges. In this presentation, I will highlight recent advances in applying AI and machine learning to accelerate and enrich spectral analysis. I will compare several methodological approaches, outlining their advantages, limitations, and underlying algorithms. The broader implications of these techniques for the future of vibrational spectroscopy will also be discussed. Finally, I will demonstrate how vibrational and thermal properties can be harnessed to guide generative models for targeted materials discovery and design.
+Generative artificial intelligence (AI) has recently attracted significant attention for its potential to accelerate a broad range of scientific and engineering domains.  However, while these models produce statistically plausible outputs, they often fail to adhere to physical principles, conservation laws, or safety constraints.  Such violations result in suggested designs that may be impractical, unstable, or even hazardous.  This talk presents our current efforts to address these challenges by introducing a new class of training-free, constraint-aware diffusion models that integrate differentiable optimization techniques with generative modeling.  We will review the mathematical foundations for incorporating both static and dynamic constraints into diffusion models, extend these results for the case of discrete diffusion models, and present case studies of inverse design in microstructural materials, protein-pocket design, multi-robot motion planning, and synthetic chemistry. 
 
 **Bio**
-Yongqiang Cheng obtained his PhD from Johns Hopkins University and joined the ORNL in 2011 as a Shull Fellow. He later continued at ORNL as a neutron scattering scientist specializing in spectroscopy. His current research focuses on integrating atomistic modeling, neutron scattering, and advanced data analysis techniques, including machine learning, to uncover and predict fundamental processes in materials.
+Ferdinando (Nando) Fioretto is an assistant professor of Computer Science at the University of Virginia.  His research focuses on addressing foundational challenges to advance AI, privacy, fairness, and the intersection between machine learning and optimization.  In particular, his group focuses on two key questions: (1) How to endow discriminative and generative machine learning (ML) models the ability to comply with constraints, uphold physical principles, and adhere to safety standards, and (2) How to ensure that ML models and decision-making systems adhere to safety, privacy, and fairness principles.  While the focus of his research is foundational, Nando’s research is motivated by the application of ML in science and engineering, with applications to power systems, material science, policy optimization, and beyond.
+ 
+His work has been recognized with the 2022 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies, the International Joint Conference on Artificial Intelligence 22 Early Career spotlight, the 2017 AI*AI Best AI dissertation award, and several best paper awards.  Nando is also a recipient of the National Science Foundation Early Career Development Program award, the Google Research Scholar Award, the Amazon Research Award, the Italian Scientists and Scholars in North America Foundation Mario Gerla Young Investigator Award, and the Association for Constraint Programming Early Career Researcher Award in Constraint Programming.  He is a board member of the Artificial Intelligence Journal and has been a member of the organizing committee of several workshops, tutorials, and events with focus on privacy, fairness, and optimization at premier AI and ML venues.
+ 
+He holds a dual Ph.D. in Computer Science from the University of Udine and the New Mexico State University.  Before joining the University of Virginia, Nando was an assistant professor at Syracuse University, a postdoctoral research associate at the Georgia Institute of Technology, and a research fellow at the University of Michigan.
 
+---
+
+**XsymNet: Combined Exhaustive Symmetry and Machine Learning for Phase Transition Studies**
+
+<br>Location: room TBD and MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 10/02/2025
+<br>Speaker: [Dayton Kizzire](https://www.ornl.gov/staff-profile/dayton-kizzire)
+
+|         |
+| ------- |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2025-06/Dayton%20profile%20picture_1.jpeg?h=1cc6dd60&itok=FU36OSHb" width="200" /> |
+| Dayton Kizzire <br> Neutron Scattering Postdoc <br>Spallation Neutron Source, ORNL |
+
+**Abstract**
+Determining the atomic structure of materials along the phase transition pathway using either neutron or x-ray powder diffraction is typically a labor-intensive process of iterative structural design and refinement that requires expert domain knowledge. Such bottom-up approaches either do not fully leverage the existing knowledge within the problem domain or are overly tailored to specific systems thus compromising the generalizability and present a major bottleneck for high throughput analysis. Here we present a top-down deep learning approach for structure determination by combining group-theoretical methods for an exhaustive list of symmetry candidates and a multi-head attention convolutional neural network for classification. The developed workflow, termed XsymNet, is demonstrated to reliably identify the structure (including space group type, lattice, and atomic positions) along the displacive phase transition pathway for several representative systems with both simple and complex phase diagrams. Both high-resolution neutron and X-ray powder diffraction data have shown to work robustly with XsymNet for structure identification. Our work highlights the power of combining physics domain knowledge with the non-linearity of neural networks to solve complex phase diagrams, and further, this framework is readily extendable for use with single crystal and diffuse scattering experiments.
+
+**Bio**
+Dayton Kizzire is a neutron scattering postdoc in the powder diffraction group of the Neutron Scattering Division (NSD) at Oak Ridge National Laboratory (ORNL). His research focuses on structure-property relationships and combining AI/ML and neutron scattering for atomic level structural studies for functional materials. His recent work includes the development of the XsymNet framework, which combines crystallographic group-theoretical methods, deep learning, and neutron/X-ray scattering to solve complicated phase transitions. Dayton is a member of the American Crystallographic Association (ACA) and is currently serving as the representative for neutron scattering postdocs at the Spallation Neutron Source (SNS). 
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -67,6 +89,25 @@ Please reach out if you are interested in presenting at a future event
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
+
+**AI-powered exploration of vibrational spectroscopy and materials discovery**
+
+<br>Location: room F235 bldg 5700 and MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 09/18/2025
+<br>Speaker: [Yongqiang Cheng](https://www.ornl.gov/staff-profile/yongqiang-cheng)
+
+|         |
+| ------- |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-10/Portrait%20-%20Yongqiang%20%28YQ%29%20Chen-102_sm.jpg?h=54b851a1&itok=m3ehEFgQ" width="200" /> |
+| Yongqiang Cheng <br>Senior Staff Scientist <br>ORNL |
+
+**Abstract**
+Atomic vibrations are fundamental processes in materials and serve as sensitive indicators of their properties. These vibrations can be probed through a variety of spectroscopic techniques employing photons, electrons, or neutrons. However, interpreting spectral data and linking specific features to atomistic mechanisms, material properties, and fundamental insights remain significant challenges. In this presentation, I will highlight recent advances in applying AI and machine learning to accelerate and enrich spectral analysis. I will compare several methodological approaches, outlining their advantages, limitations, and underlying algorithms. The broader implications of these techniques for the future of vibrational spectroscopy will also be discussed. Finally, I will demonstrate how vibrational and thermal properties can be harnessed to guide generative models for targeted materials discovery and design.
+
+**Bio**
+Yongqiang Cheng obtained his PhD from Johns Hopkins University and joined the ORNL in 2011 as a Shull Fellow. He later continued at ORNL as a neutron scattering scientist specializing in spectroscopy. His current research focuses on integrating atomistic modeling, neutron scattering, and advanced data analysis techniques, including machine learning, to uncover and predict fundamental processes in materials.
+
+---
 
 **Accelerating Materials Discovery with AI**
 
@@ -104,6 +145,7 @@ structures, thereby improving our computational understanding of a material’s 
 
 Chris Sutton completed his PhD from Georgia Tech under the supervision of Jean-Luc Bredas. Afterwards, he did a brief postdoc with Weitao Yang at Duke University working on high fidelity eletronic structure methods. In 2015, he joined the Fritz-Haber Institute in Berlin as an Alexander von Humboldt postdoctoral fellow . In 2021, Chris joined the Chemistry/Biochemistry Department at the University of South Carolina. His research primarily focuses on combining computation and machine learning  to accelerate materials discovery.
 
+---
 
 **Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation**
 
@@ -124,7 +166,7 @@ This presentation delves into advancements and challenges in atomistic simulatio
 
 Dr. Justin S. Smith, Ph.D. in computational chemistry from the University of Florida, is known for his pioneering work in the development of machine learning interatomic potentials (MLIPs). As a primary developer of the ANI class of MLIPs, Justin has significantly advanced the field of computational chemistry by creating models that accurately predict molecular properties and dynamics. In addition to his work on the ANI class of models, Justin contributed to the development of the AIMNet and HIP-NN family of models. His efforts in these areas have focused on improving the accuracy and efficiency of MLIPs, enabling more precise simulations of molecular systems. Justin has also been instrumental in advancing active learning techniques for robust dataset generation, which are crucial for training accurate and transferable MLIPs. In recent years, Justin has been managing NVIDIA's strategy in the AI for chemistry and materials science domain. In this role, he has been responsible for overseeing partnerships, prioritization, development and deployment relating to AI-driven tools and technologies that are transforming molecular and materials simulation across domains.
 
-
+---
 
 **What can we learn from a billion agents?**
 
