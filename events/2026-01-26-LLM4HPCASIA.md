@@ -143,6 +143,10 @@ The Ohio State University, USA<br>
 <li><strong>Jens Domke</strong>, RIKEN Center for Computational Science(R-CSS), Japan</li>
 <li><strong>Gokcen Kestor</strong>, Barcelona Supercomputing Center, Spain</li>
 <li><strong>Kshitij Srivastava</strong>, Aurora, USA</li>
+<li><strong>Simon Garcia De Gonzalo</strong>, Sandia National Laboratory, USA</li>
+<li><strong>Shilei Tian</strong>, AMD, USA</li>
+<li><strong>Josh Davis</strong>, University of Maryland, USA</li>
+<li><strong>Yuning Xia</strong>, Rice University, USA</li>
 <!--
 <li><strong>Samuel Williams</strong>, Lawrence Berkeley National Laboratory, USA</li>
 <li><strong>Prasanna Balaprakash</strong>, Oak Ridge National Laboratory, USA</li>
