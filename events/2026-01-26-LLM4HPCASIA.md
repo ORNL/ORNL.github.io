@@ -30,7 +30,7 @@ The 1st International Workshop on Foundational large Language Models Advances fo
       </p><p>
 
       </p><p>
-       26-29 January, 2026<br> Osaka, Japan</p>
+       29 January, 2026<br> Osaka, Japan</p>
 </div>
 
 <div class="body">
@@ -140,13 +140,15 @@ The Ohio State University, USA<br>
 <li><strong>Upasana Sridhar</strong>, Carnegie Mellon University, USA</li>
 <li><strong>Het Mankad</strong>, Oak Ridge National Laboratory, USA</li>
 <li><strong>Rabab Alomairy</strong>, Massachusetts Institute of Technology, USA</li>
-<li><strong>Jens Domke</strong>, RIKEN Center for Computational Science(R-CSS), Japan</li>
+<li><strong>Jens Domke</strong>, RIKEN Center for Computational Science (R-CSS), Japan</li>
 <li><strong>Gokcen Kestor</strong>, Barcelona Supercomputing Center, Spain</li>
 <li><strong>Kshitij Srivastava</strong>, Aurora, USA</li>
 <li><strong>Simon Garcia De Gonzalo</strong>, Sandia National Laboratory, USA</li>
 <li><strong>Shilei Tian</strong>, AMD, USA</li>
 <li><strong>Josh Davis</strong>, University of Maryland, USA</li>
 <li><strong>Yuning Xia</strong>, Rice University, USA</li>
+<li><strong>Erin Carrier</strong>, Grand Valley State Unviersity, USA</li>
+<li><strong>Noujoud Nader</strong>, Louisiana State University, USA</li>
 <!--
 <li><strong>Samuel Williams</strong>, Lawrence Berkeley National Laboratory, USA</li>
 <li><strong>Prasanna Balaprakash</strong>, Oak Ridge National Laboratory, USA</li>
