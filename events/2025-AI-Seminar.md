@@ -22,45 +22,24 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentations
 
-**Constraint-Aware Diffusion Models for Reliable Scientific Design**
+**Federal AI Policy Overview**
 
 <br>Location: MS Teams
-<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 09/25/2025
-<br>Speaker: [Ferdinando (Nando) Fioretto](https://nandofioretto.github.io/), 
+<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 10/30/2025
+<br>Speaker: [Brett Meeks](https://www.kimbell-associates.com/brett-meeks.html)
 
 |         |
 | ------- |
-| <img src="https://nandofioretto.github.io/assets/img/head_syr.png" width="200" /> |
-| Ferdinando Fioretto<br> Assistant Professor of Computer Science <br>University of Virginia |
+| <img src="https://www.kimbell-associates.com/uploads/1/1/0/7/110790979/7l5a7983-2_orig.jpg" width="200" /> |
+| Brett Meeks <br> Vice President of Government Affairs, Health Technology and AI <br>Jeffrey J. Kimbell & Associates |
 
 **Abstract**
-Generative artificial intelligence (AI) has recently attracted significant attention for its potential to accelerate a broad range of scientific and engineering domains.  However, while these models produce statistically plausible outputs, they often fail to adhere to physical principles, conservation laws, or safety constraints.  Such violations result in suggested designs that may be impractical, unstable, or even hazardous.  This talk presents our current efforts to address these challenges by introducing a new class of training-free, constraint-aware diffusion models that integrate differentiable optimization techniques with generative modeling.  We will review the mathematical foundations for incorporating both static and dynamic constraints into diffusion models, extend these results for the case of discrete diffusion models, and present case studies of inverse design in microstructural materials, protein-pocket design, multi-robot motion planning, and synthetic chemistry. 
+
+Brett Meeks will review current activities and discussion around the regulation of artificial intelligence (AI) by the federal government, with a particular focus on the use of AI tools in health care. The presentation will include a review of the Trump Administration’s AI Action Plan and proposed legislation in congress related to AI.
 
 **Bio**
-Ferdinando (Nando) Fioretto is an assistant professor of Computer Science at the University of Virginia.  His research focuses on addressing foundational challenges to advance AI, privacy, fairness, and the intersection between machine learning and optimization.  In particular, his group focuses on two key questions: (1) How to endow discriminative and generative machine learning (ML) models the ability to comply with constraints, uphold physical principles, and adhere to safety standards, and (2) How to ensure that ML models and decision-making systems adhere to safety, privacy, and fairness principles.  While the focus of his research is foundational, Nando’s research is motivated by the application of ML in science and engineering, with applications to power systems, material science, policy optimization, and beyond.
- 
-His work has been recognized with the 2022 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies, the International Joint Conference on Artificial Intelligence 22 Early Career spotlight, the 2017 AI*AI Best AI dissertation award, and several best paper awards.  Nando is also a recipient of the National Science Foundation Early Career Development Program award, the Google Research Scholar Award, the Amazon Research Award, the Italian Scientists and Scholars in North America Foundation Mario Gerla Young Investigator Award, and the Association for Constraint Programming Early Career Researcher Award in Constraint Programming.  He is a board member of the Artificial Intelligence Journal and has been a member of the organizing committee of several workshops, tutorials, and events with focus on privacy, fairness, and optimization at premier AI and ML venues.
- 
-He holds a dual Ph.D. in Computer Science from the University of Udine and the New Mexico State University.  Before joining the University of Virginia, Nando was an assistant professor at Syracuse University, a postdoctoral research associate at the Georgia Institute of Technology, and a research fellow at the University of Michigan.
 
----
-
-**XsymNet: Combined Exhaustive Symmetry and Machine Learning for Phase Transition Studies**
-
-<br>Location: room TBD and MS Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 10/02/2025
-<br>Speaker: [Dayton Kizzire](https://www.ornl.gov/staff-profile/dayton-kizzire)
-
-|         |
-| ------- |
-| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2025-06/Dayton%20profile%20picture_1.jpeg?h=1cc6dd60&itok=FU36OSHb" width="200" /> |
-| Dayton Kizzire <br> Neutron Scattering Postdoc <br>Spallation Neutron Source, ORNL |
-
-**Abstract**
-Determining the atomic structure of materials along the phase transition pathway using either neutron or x-ray powder diffraction is typically a labor-intensive process of iterative structural design and refinement that requires expert domain knowledge. Such bottom-up approaches either do not fully leverage the existing knowledge within the problem domain or are overly tailored to specific systems thus compromising the generalizability and present a major bottleneck for high throughput analysis. Here we present a top-down deep learning approach for structure determination by combining group-theoretical methods for an exhaustive list of symmetry candidates and a multi-head attention convolutional neural network for classification. The developed workflow, termed XsymNet, is demonstrated to reliably identify the structure (including space group type, lattice, and atomic positions) along the displacive phase transition pathway for several representative systems with both simple and complex phase diagrams. Both high-resolution neutron and X-ray powder diffraction data have shown to work robustly with XsymNet for structure identification. Our work highlights the power of combining physics domain knowledge with the non-linearity of neural networks to solve complex phase diagrams, and further, this framework is readily extendable for use with single crystal and diffuse scattering experiments.
-
-**Bio**
-Dayton Kizzire is a neutron scattering postdoc in the powder diffraction group of the Neutron Scattering Division (NSD) at Oak Ridge National Laboratory (ORNL). His research focuses on structure-property relationships and combining AI/ML and neutron scattering for atomic level structural studies for functional materials. His recent work includes the development of the XsymNet framework, which combines crystallographic group-theoretical methods, deep learning, and neutron/X-ray scattering to solve complicated phase transitions. Dayton is a member of the American Crystallographic Association (ACA) and is currently serving as the representative for neutron scattering postdocs at the Spallation Neutron Source (SNS). 
+Brett Meeks is Vice President of Government Affairs, Health Technology and AI at Jeffrey J. Kimbell & Associates, a boutique health care lobbying firm based in Washington, DC. Brett represents clients and coalitions working to improve the delivery of health care through technology and innovation. Brett served as the Executive Director of the Health Innovation Alliance, a coalition focused on improving health care with technology and data. He has also worked for the Center for Medical Interoperability, a non-profit research lab in Nashville seeking to connect medical devices and other technologies through a common platform to improve care. Prior to moving to Nashville, Brett served as Deputy Health Policy Director on the Senate Committee on Health, Education, Labor and Pensions for Chairman Lamar Alexander of Tennessee where he wrote, negotiated, and oversaw passage of several federal health care laws, including the 21st Century Cures Act. He has over eight years of experience in the U.S. Senate and has also spent time working in a wide range of health care law and policy positions, including a small physician practice, a large research hospital, a small litigation firm, and a health policy consultancy. Brett is a graduate of the University of Virginia, the National Defense University, and the University of Mississippi School of Law. He lives in Nashville with his wife and two daughters.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -85,14 +64,64 @@ Please reach out if you are interested in presenting at a future event
 | 09-18-2025 | On Site | Yongqiang Cheng | ORNL | AI-powered exploration of vibrational spectroscopy and materials discovery |
 | 09-25-2025 | Virtual | Nando Fioretto | University of Virginia | Constraint-Aware Diffusion Models for Reliable Scientific Design |
 | 10-02-2025 | On Site | Dayton Kizzire| ORNL | XsymNet, a framework for coupling deep learning and crystallographic group-theoretical methods |
+| 10-30-2025 | Virtual | Brett Meeks | Jeffrey J. Kimbell & Associates | Federal AI Policy Overview |
+| 11-20-2025 | Virtual | Samy Wu Fung | Colorado School of Mines | Designing Explainable Neural Networks with Physics Constraints via Optimization |
 
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
 
+---
+
+**XsymNet: Combined Exhaustive Symmetry and Machine Learning for Phase Transition Studies**
+
+<br>Location: room F234 bldg 5700 and MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 10/02/2025
+<br>Speaker: [Dayton Kizzire](https://www.ornl.gov/staff-profile/dayton-kizzire)
+
+|         |
+| ------- |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2025-06/Dayton%20profile%20picture_1.jpeg?h=1cc6dd60&itok=FU36OSHb" width="200" /> |
+| Dayton Kizzire <br> Neutron Scattering Postdoc <br>Spallation Neutron Source, ORNL |
+
+**Abstract**
+
+Determining the atomic structure of materials along the phase transition pathway using either neutron or x-ray powder diffraction is typically a labor-intensive process of iterative structural design and refinement that requires expert domain knowledge. Such bottom-up approaches either do not fully leverage the existing knowledge within the problem domain or are overly tailored to specific systems thus compromising the generalizability and present a major bottleneck for high throughput analysis. Here we present a top-down deep learning approach for structure determination by combining group-theoretical methods for an exhaustive list of symmetry candidates and a multi-head attention convolutional neural network for classification. The developed workflow, termed XsymNet, is demonstrated to reliably identify the structure (including space group type, lattice, and atomic positions) along the displacive phase transition pathway for several representative systems with both simple and complex phase diagrams. Both high-resolution neutron and X-ray powder diffraction data have shown to work robustly with XsymNet for structure identification. Our work highlights the power of combining physics domain knowledge with the non-linearity of neural networks to solve complex phase diagrams, and further, this framework is readily extendable for use with single crystal and diffuse scattering experiments.
+
+**Bio**
+
+Dayton Kizzire is a neutron scattering postdoc in the powder diffraction group of the Neutron Scattering Division (NSD) at Oak Ridge National Laboratory (ORNL). His research focuses on structure-property relationships and combining AI/ML and neutron scattering for atomic level structural studies for functional materials. His recent work includes the development of the XsymNet framework, which combines crystallographic group-theoretical methods, deep learning, and neutron/X-ray scattering to solve complicated phase transitions. Dayton is a member of the American Crystallographic Association (ACA) and is currently serving as the representative for neutron scattering postdocs at the Spallation Neutron Source (SNS). 
+
+---
+
+**Constraint-Aware Diffusion Models for Reliable Scientific Design**
+
+<br>Location: MS Teams
+<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 09/25/2025
+<br>Speaker: [Ferdinando (Nando) Fioretto](https://nandofioretto.github.io/), 
+
+|         |
+| ------- |
+| <img src="https://nandofioretto.github.io/assets/img/head_syr.png" width="200" /> |
+| Ferdinando Fioretto<br> Assistant Professor of Computer Science <br>University of Virginia |
+
+**Abstract**
+
+Generative artificial intelligence (AI) has recently attracted significant attention for its potential to accelerate a broad range of scientific and engineering domains.  However, while these models produce statistically plausible outputs, they often fail to adhere to physical principles, conservation laws, or safety constraints.  Such violations result in suggested designs that may be impractical, unstable, or even hazardous.  This talk presents our current efforts to address these challenges by introducing a new class of training-free, constraint-aware diffusion models that integrate differentiable optimization techniques with generative modeling.  We will review the mathematical foundations for incorporating both static and dynamic constraints into diffusion models, extend these results for the case of discrete diffusion models, and present case studies of inverse design in microstructural materials, protein-pocket design, multi-robot motion planning, and synthetic chemistry. 
+
+**Bio**
+
+Ferdinando (Nando) Fioretto is an assistant professor of Computer Science at the University of Virginia.  His research focuses on addressing foundational challenges to advance AI, privacy, fairness, and the intersection between machine learning and optimization.  In particular, his group focuses on two key questions: (1) How to endow discriminative and generative machine learning (ML) models the ability to comply with constraints, uphold physical principles, and adhere to safety standards, and (2) How to ensure that ML models and decision-making systems adhere to safety, privacy, and fairness principles.  While the focus of his research is foundational, Nando’s research is motivated by the application of ML in science and engineering, with applications to power systems, material science, policy optimization, and beyond.
+ 
+His work has been recognized with the 2022 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies, the International Joint Conference on Artificial Intelligence 22 Early Career spotlight, the 2017 AI*AI Best AI dissertation award, and several best paper awards.  Nando is also a recipient of the National Science Foundation Early Career Development Program award, the Google Research Scholar Award, the Amazon Research Award, the Italian Scientists and Scholars in North America Foundation Mario Gerla Young Investigator Award, and the Association for Constraint Programming Early Career Researcher Award in Constraint Programming.  He is a board member of the Artificial Intelligence Journal and has been a member of the organizing committee of several workshops, tutorials, and events with focus on privacy, fairness, and optimization at premier AI and ML venues.
+ 
+He holds a dual Ph.D. in Computer Science from the University of Udine and the New Mexico State University.  Before joining the University of Virginia, Nando was an assistant professor at Syracuse University, a postdoctoral research associate at the Georgia Institute of Technology, and a research fellow at the University of Michigan.
+
+---
+
 **AI-powered exploration of vibrational spectroscopy and materials discovery**
 
-<br>Location: room F235 bldg 5700 and MS Teams
+<br>Location: room F234 bldg 5700 and MS Teams
 <br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 09/18/2025
 <br>Speaker: [Yongqiang Cheng](https://www.ornl.gov/staff-profile/yongqiang-cheng)
 
@@ -102,9 +131,11 @@ Please reach out if you are interested in presenting at a future event
 | Yongqiang Cheng <br>Senior Staff Scientist <br>ORNL |
 
 **Abstract**
+
 Atomic vibrations are fundamental processes in materials and serve as sensitive indicators of their properties. These vibrations can be probed through a variety of spectroscopic techniques employing photons, electrons, or neutrons. However, interpreting spectral data and linking specific features to atomistic mechanisms, material properties, and fundamental insights remain significant challenges. In this presentation, I will highlight recent advances in applying AI and machine learning to accelerate and enrich spectral analysis. I will compare several methodological approaches, outlining their advantages, limitations, and underlying algorithms. The broader implications of these techniques for the future of vibrational spectroscopy will also be discussed. Finally, I will demonstrate how vibrational and thermal properties can be harnessed to guide generative models for targeted materials discovery and design.
 
 **Bio**
+
 Yongqiang Cheng obtained his PhD from Johns Hopkins University and joined the ORNL in 2011 as a Shull Fellow. He later continued at ORNL as a neutron scattering scientist specializing in spectroscopy. His current research focuses on integrating atomistic modeling, neutron scattering, and advanced data analysis techniques, including machine learning, to uncover and predict fundamental processes in materials.
 
 ---
