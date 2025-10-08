@@ -149,6 +149,7 @@ The Ohio State University, USA<br>
 <li><strong>Yuning Xia</strong>, Rice University, USA</li>
 <li><strong>Erin Carrier</strong>, Grand Valley State Unviersity, USA</li>
 <li><strong>Noujoud Nader</strong>, Louisiana State University, USA</li>
+<li><strong>Ignacio Laguna</strong>, Lawrence Livermore National Laboratory, USA</li>
 <!--
 <li><strong>Samuel Williams</strong>, Lawrence Berkeley National Laboratory, USA</li>
 <li><strong>Prasanna Balaprakash</strong>, Oak Ridge National Laboratory, USA</li>
@@ -168,21 +169,23 @@ The Ohio State University, USA<br>
 </ul>
 
 <h2>Manuscript submission</h2>
-<strong>TBD</strong><br>
 <!--
+<strong>TBD</strong><br>
+-->
 <p>
 We invite submissions of original, unpublished research and experiential papers. 
-Papers should be between <strong>6 to 12</strong> pages in length (including a bibliography and appendices, with two possible extra pages after the review to address the reviewer’s comments), formatted according to <a href="https://www.springer.com/de/it-informatik/lncs"> Springer’s Lecture Notes in Computer Science (LNCS)</a>. All paper submissions will be managed electronically via <a href="https://easychair.org/my/conference?conf=llm4hpc">EasyChair</a>.
+Papers should be at <strong>12</strong> pages in length (including a bibliography and appendices, with two possible extra pages after the review to address the reviewer’s comments), formatted according to single-column <a href="https://www.acm.org/publications/authors/submissions"> ACM Proceedings Style</a>. More details about the format can be found in the <a href="https://www.sca-hpcasia2026.jp/submit/papers.html"> SCA/HPCAsia 2026 submission website</a>. All paper submissions will be managed electronically via <a href="https://easychair.org/conferences?conf=llm4hpcasia">EasyChair</a>. 
 </p>
--->
+
 
 <h2>Proceedings</h2>
-<strong>TBD</strong><br>
 <!--
-<p>
-All accepted papers will be published in the ISC-HPC Workshops 2025 proceedings by SpringerLink. 
-</p> 
+<strong>TBD</strong><br>
 -->
+<p>
+All accepted papers will be published in the SCA/HPCAsia Workshops 2026 proceedings by ACM. 
+</p> 
+
 
 <h2>Best Paper Award</h2>
 <p>
