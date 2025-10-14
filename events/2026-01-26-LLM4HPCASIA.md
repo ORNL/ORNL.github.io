@@ -174,7 +174,7 @@ The Ohio State University, USA<br>
 -->
 <p>
 We invite submissions of original, unpublished research and experiential papers. 
-Papers should be at <strong>12</strong> pages in length (including a bibliography and appendices, with two possible extra pages after the review to address the reviewer’s comments), formatted according to single-column <a href="https://www.acm.org/publications/authors/submissions"> ACM Proceedings Style</a>. More details about the format can be found in the <a href="https://www.sca-hpcasia2026.jp/submit/papers.html"> SCA/HPCAsia 2026 submission website</a>. All paper submissions will be managed electronically via <a href="https://easychair.org/conferences?conf=llm4hpcasia">EasyChair</a>. 
+Papers should be at most <strong>12</strong> pages in length (including a bibliography and appendices, with two possible extra pages after the review to address the reviewer’s comments), formatted according to single-column <a href="https://www.acm.org/publications/authors/submissions"> ACM Proceedings Style</a>. More details about the format can be found in the <a href="https://www.sca-hpcasia2026.jp/submit/papers.html"> SCA/HPCAsia 2026 submission website</a>. All paper submissions will be managed electronically via <a href="https://easychair.org/conferences?conf=llm4hpcasia">EasyChair</a>. 
 </p>
 
 
