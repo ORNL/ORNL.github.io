@@ -22,24 +22,22 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentations
 
-**Federal AI Policy Overview**
+**Designing Explainable Neural NetworksWith Physics Constraints via Optimization**
 
 <br>Location: MS Teams
-<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 10/30/2025
-<br>Speaker: [Brett Meeks](https://www.kimbell-associates.com/brett-meeks.html)
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 11/20/2025
+<br>Speaker: [Samy Wu Fung](https://swufung.github.io/)
 
 |         |
 | ------- |
-| <img src="https://www.kimbell-associates.com/uploads/1/1/0/7/110790979/7l5a7983-2_orig.jpg" width="200" /> |
-| Brett Meeks <br> Vice President of Government Affairs, Health Technology and AI <br>Jeffrey J. Kimbell & Associates |
+| <img src="https://swufung.github.io/images/profile_photo.png" width="200" /> |
+| Samy Wu Fung <br> Assistant Professor, Department of Applied Mathematics and Statistics <br>Colorado School of Mines |
 
 **Abstract**
+This talk explores designing neural networks that enforce physics principles as hard constraints through a class of network architectures known as implicit neural networks. These networks produce outputs satisfying specific feasibility and optimality conditions that represent domain/physics knowledge. Samy will address the challenges of training these networks efficiently, illustrate some applications where they have found success, and provide a bound on how well they generalize.
 
-Brett Meeks will review current activities and discussion around the regulation of artificial intelligence (AI) by the federal government, with a particular focus on the use of AI tools in health care. The presentation will include a review of the Trump Administration’s AI Action Plan and proposed legislation in congress related to AI.
-
-**Bio**
-
-Brett Meeks is Vice President of Government Affairs, Health Technology and AI at Jeffrey J. Kimbell & Associates, a boutique health care lobbying firm based in Washington, DC. Brett represents clients and coalitions working to improve the delivery of health care through technology and innovation. Brett served as the Executive Director of the Health Innovation Alliance, a coalition focused on improving health care with technology and data. He has also worked for the Center for Medical Interoperability, a non-profit research lab in Nashville seeking to connect medical devices and other technologies through a common platform to improve care. Prior to moving to Nashville, Brett served as Deputy Health Policy Director on the Senate Committee on Health, Education, Labor and Pensions for Chairman Lamar Alexander of Tennessee where he wrote, negotiated, and oversaw passage of several federal health care laws, including the 21st Century Cures Act. He has over eight years of experience in the U.S. Senate and has also spent time working in a wide range of health care law and policy positions, including a small physician practice, a large research hospital, a small litigation firm, and a health policy consultancy. Brett is a graduate of the University of Virginia, the National Defense University, and the University of Mississippi School of Law. He lives in Nashville with his wife and two daughters.
+**Speaker's Bio**
+Samy Wu Fung is an Assistant Professor in the Department of Applied Mathematics and Statistics at Colorado School of Mines. Prior to joining Mines, he was an Assistant Adjunct Professor at University of California Los Angeles. He obtained his Ph.D. from Emory University, working on large-scale geophysical inverse problems and machine learning. His research interests are at the intersection of inverse problems and optimization, optimal control, mean field games, and deep learning.  
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -70,6 +68,26 @@ Please reach out if you are interested in presenting at a future event
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
+
+**Federal AI Policy Overview**
+
+<br>Location: MS Teams
+<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 10/30/2025
+<br>Speaker: [Brett Meeks](https://www.kimbell-associates.com/brett-meeks.html)
+
+|         |
+| ------- |
+| <img src="https://www.kimbell-associates.com/uploads/1/1/0/7/110790979/7l5a7983-2_orig.jpg" width="200" /> |
+| Brett Meeks <br> Vice President of Government Affairs, Health Technology and AI <br>Jeffrey J. Kimbell & Associates |
+
+**Abstract**
+
+Brett Meeks will review current activities and discussion around the regulation of artificial intelligence (AI) by the federal government, with a particular focus on the use of AI tools in health care. The presentation will include a review of the Trump Administration’s AI Action Plan and proposed legislation in congress related to AI.
+
+**Bio**
+
+Brett Meeks is Vice President of Government Affairs, Health Technology and AI at Jeffrey J. Kimbell & Associates, a boutique health care lobbying firm based in Washington, DC. Brett represents clients and coalitions working to improve the delivery of health care through technology and innovation. Brett served as the Executive Director of the Health Innovation Alliance, a coalition focused on improving health care with technology and data. He has also worked for the Center for Medical Interoperability, a non-profit research lab in Nashville seeking to connect medical devices and other technologies through a common platform to improve care. Prior to moving to Nashville, Brett served as Deputy Health Policy Director on the Senate Committee on Health, Education, Labor and Pensions for Chairman Lamar Alexander of Tennessee where he wrote, negotiated, and oversaw passage of several federal health care laws, including the 21st Century Cures Act. He has over eight years of experience in the U.S. Senate and has also spent time working in a wide range of health care law and policy positions, including a small physician practice, a large research hospital, a small litigation firm, and a health policy consultancy. Brett is a graduate of the University of Virginia, the National Defense University, and the University of Mississippi School of Law. He lives in Nashville with his wife and two daughters.
+
 
 ---
 
