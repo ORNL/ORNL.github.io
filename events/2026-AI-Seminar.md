@@ -3,7 +3,7 @@ layout: default
 title: ORNL's AI Seminar Series <br/> 
 description: Organized by the ORNL AI Initiative <br/>
              10am - 11am ET <br/> 
-             Thursdays, January-December, 2025 <br/> 
+             Thursdays, January-December, 2026 <br/> 
              Hybrid (Onsite & Virtual) <br/>
              
 permalink: /events/ai-initiative-seminar-2026/
@@ -93,6 +93,6 @@ td, th {
 |                |                |                |                |
 | -------------- | -------------- | -------------- | -------------- |
 | [![Yan Liu](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-04/liuy8.png?h=5114cd9b&itok=5Nt4keCd)](https://www.ornl.gov/staff-profile/yan-liu) | [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Sudip Seal](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2018-P01367.jpg)](https://www.ornl.gov/staff-profile/sudip-k-seal) |
-| Yan Liu <br> Senior Computational Scientist <br> Computational Sciences & Engineering Division <br> ORNL | Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ORNL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ORNL | Sudip Seal<br> Director of the ORNL AI Initiative<br> Distinguished R&D Staff Scientist<br> Computer Science and Mathematics Division, ORNL |
+| Yan Liu <br> Senior Computational Scientist <br> Computational Sciences & Engineering Division <br> ORNL | Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ORNL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ORNL | Sudip Seal<br> Director, AI Initiative<br> Distinguished R&D Staff Scientist<br> Computer Science and Mathematics Division, ORNL |
 
 <a href="#top"> &#10558; Back to top</a>
