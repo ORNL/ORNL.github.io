@@ -24,7 +24,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 **Dynamical low-rank compression of neural networks with robustness under adversarial attacks**
 
-<br>Location: Building 5700 and MS Teams
+<br>Location: Room F234, Building 5700 and MS Teams
 <br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 01/29/2026
 <br>Speaker: [Stefan Schnake](https://www.ornl.gov/staff-profile/stefan-r-schnake)
 
@@ -92,7 +92,7 @@ td, th {
 
 |                |                |                |                |
 | -------------- | -------------- | -------------- | -------------- |
-| [![Yan Liu](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-04/liuy8.png?h=5114cd9b&itok=5Nt4keCd)](https://www.ornl.gov/staff-profile/yan-liu) | [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Sudip Seal](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2018-P01367.jpg)](https://www.ornl.gov/staff-profile/sudip-k-seal) |
-| Yan Liu <br> Senior Computational Scientist <br> Computational Sciences & Engineering Division <br> ORNL | Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ORNL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ORNL | Sudip Seal<br> Director, AI Initiative<br> Distinguished R&D Staff Scientist<br> Computer Science and Mathematics Division, ORNL |
+| [![Yan Liu](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-04/liuy8.png?h=5114cd9b&itok=5Nt4keCd)](https://www.ornl.gov/staff-profile/yan-liu) | [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Lexie Yang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-03/2020-P01810_0.jpg)](https://www.ornl.gov/staff-profile/lexie-yang) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Sudip Seal](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2018-P01367.jpg)](https://www.ornl.gov/staff-profile/sudip-k-seal) |
+| Yan Liu <br> Senior Computational Scientist <br> Computational Sciences & Engineering Division <br> ORNL | Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ORNL | Lexie Yang <br> Senior R&D Staff Scientist <br> Geospatial Science and Human Security Division <br> ORNL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ORNL | Sudip Seal<br> Director, AI Initiative<br> Distinguished R&D Staff Scientist<br> Computer Science and Mathematics Division, ORNL |
 
 <a href="#top"> &#10558; Back to top</a>
