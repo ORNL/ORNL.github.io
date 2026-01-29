@@ -22,22 +22,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentations
 
-**Dynamical low-rank compression of neural networks with robustness under adversarial attacks**
-
-<br>Location: Room F234, Building 5700 and MS Teams
-<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 01/29/2026
-<br>Speaker: [Stefan Schnake](https://www.ornl.gov/staff-profile/stefan-r-schnake)
-
-|         |
-| ------- |
-| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-03/IMG_6786.jpg" width="200" /> |
-| Stefan Schnake <br> Research Scientist, Computer Science and Mathematics Division <br>ORNL |
-
-**Abstract**
-Deployment of neural networks on resource-constrained devices demands models that are both compact and robust to adversarial inputs. However, compression and adversarial robustness often conflict. In this work, we introduce a dynamical low-rank training scheme enhanced with a novel spectral regularizer that controls the condition number of the low-rank core in each layer. This approach mitigates the sensitivity of compressed models to adversarial perturbations without sacrificing accuracy on clean data. The method is model- and data-agnostic, computationally efficient, and supports rank adaptivity to automatically compress the network at hand. Extensive experiments across standard architectures, datasets, and adversarial attacks show the regularized networks can achieve over `94%` compression while recovering or improving adversarial accuracy relative to uncompressed baselines.
-
-**Speaker's Bio**
-Dr. Stefan Schnake is a research scientist in the Multiscale Methods and Dynamics Group.  He received his Ph.D. in 2017 from the University of Tennessee and joined Oak Ridge National Laboratory in 2020 after a postdoctoral appointment at the University of Oklahoma.  His research interests include low-rank and sparse-grid methods for compressing tensor representations of solutions to dynamical systems.  Applications of his research include machine learning and high-dimensional partial differential equation approximation.
+TBD
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -59,6 +44,25 @@ Please reach out if you are interested in presenting at a future event
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
+
+**Dynamical low-rank compression of neural networks with robustness under adversarial attacks**
+
+<br>Location: Room F234, Building 5700 and MS Teams
+<br> Time: 10:00 a.m. - 11 a.m. ET, Thursday, 01/29/2026
+<br>Speaker: [Stefan Schnake](https://www.ornl.gov/staff-profile/stefan-r-schnake)
+
+|         |
+| ------- |
+| <img src="https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-03/IMG_6786.jpg" width="200" /> |
+| Stefan Schnake <br> Research Scientist, Computer Science and Mathematics Division <br>ORNL |
+
+**Abstract**
+Deployment of neural networks on resource-constrained devices demands models that are both compact and robust to adversarial inputs. However, compression and adversarial robustness often conflict. In this work, we introduce a dynamical low-rank training scheme enhanced with a novel spectral regularizer that controls the condition number of the low-rank core in each layer. This approach mitigates the sensitivity of compressed models to adversarial perturbations without sacrificing accuracy on clean data. The method is model- and data-agnostic, computationally efficient, and supports rank adaptivity to automatically compress the network at hand. Extensive experiments across standard architectures, datasets, and adversarial attacks show the regularized networks can achieve over `94%` compression while recovering or improving adversarial accuracy relative to uncompressed baselines.
+
+**Speaker's Bio**
+Dr. Stefan Schnake is a research scientist in the Multiscale Methods and Dynamics Group.  He received his Ph.D. in 2017 from the University of Tennessee and joined Oak Ridge National Laboratory in 2020 after a postdoctoral appointment at the University of Oklahoma.  His research interests include low-rank and sparse-grid methods for compressing tensor representations of solutions to dynamical systems.  Applications of his research include machine learning and high-dimensional partial differential equation approximation.
+
+---
 
 **Efficient Low-Rank Training and Fine-Tuning of Neural Networks**
 
