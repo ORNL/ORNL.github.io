@@ -28,7 +28,7 @@ header-includes:
       <h2><font size="6">
        The 1st International Workshop on Agentic AI for HPC</font></h2>
       <p>to be held in conjunction with<br>
-	      <a href="https://www.sca-hpcasia2026.jp">SCA/HPC Asia 2026</a>
+	      <a href="https://sc26.supercomputing.org">SC 2026</a>
       </p><p>
 
       </p><p>
@@ -50,15 +50,18 @@ The main goal of this workshop is to build bridges between HPC and AI by fosteri
 
 <h2>Program</h2>
 <p> 
+TBD
 </p>
 
 <h2>Important Dates</h2>
 <p>
+TBD
 </p>
 
 
 <h2>Steering Committee</h2>
 <p>
+TBD
 </p>
 
 <h2>Organizers (Contact us)</h2>
@@ -69,12 +72,14 @@ Oak Ridge National Laboratory, USA<br>
 <i>monilm@ornl.gov</i>
 </p>
 <p>
+TBD
 </p>
 
 
 <h2>Programme Committee</h2>
 <ul>
 <li><strong>William F. Godoy</strong>, Oak Ridge National Laboratory, USA</li>
+TBD
 </ul>
 
 <!--
