@@ -1,14 +1,18 @@
 ---
 layout: default
-title: AgenticAI4HPC 2026 
-description: AgenticAI4HPC’26: The First International Workshop on Agentic AI for HPC<br />
-             to be held in conjunction with SC 2026<br/>
-             November 15th-20th, 2026<br />
-             Chicago, USA<br />
+title: AgenticAI4HPC 2026
+
+description: |
+  AgenticAI4HPC’26: The First International Workshop on Agentic AI for HPC<br />
+  to be held in conjunction with SC 2026<br/>
+  November 15th-20th, 2026<br />
+  Chicago, USA<br />
+
 permalink: /events/agenticai4hpc2026/
 tags: events
+
 header-includes:
-    - \usepackage{wallpaper}
+  - \usepackage{wallpaper}
 ---
 
 
