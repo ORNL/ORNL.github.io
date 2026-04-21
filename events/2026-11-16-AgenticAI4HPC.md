@@ -15,10 +15,8 @@ header-includes:
   - \usepackage{wallpaper}
 ---
 
-
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>AgenticAI4HPC 2026</title>
-
 <link rel="stylesheet" href="./2026-11-16-AgenticAI4HPC-files/agenticai4hpc2026.css" type="text/css">
 </head>
 <body>
@@ -28,13 +26,13 @@ header-includes:
 <div class="header">
       <h1>AgenticAI4HPC 2026 </h1>
       <h2><font size="6">
-The 5th International Workshop on Extreme Heterogeneity Solutions</font></h2>
+       The 1st International Workshop on Agentic AI for HPC</font></h2>
       <p>to be held in conjunction with<br>
 	      <a href="https://www.sca-hpcasia2026.jp">SCA/HPC Asia 2026</a>
       </p><p>
 
       </p><p>
-       26-29 January, 2026<br> Osaka, Japan</p>
+       15-20 November, 2026<br> Chicago, USA</p>
 </div>
 
 <div class="body">
