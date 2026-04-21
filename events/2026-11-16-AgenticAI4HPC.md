@@ -13,16 +13,16 @@ header-includes:
 
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ExHET 2026</title>
+<title>AgenticAI4HPC 2026</title>
 
-<link rel="stylesheet" href="./2026-01-26-AgenticAI4HPC-files/agenticai4hpc2026.css" type="text/css">
+<link rel="stylesheet" href="./2026-11-16-AgenticAI4HPC-files/agenticai4hpc2026.css" type="text/css">
 </head>
 <body>
 
 
 
 <div class="header">
-      <h1>ExHET 2026 </h1>
+      <h1>AgenticAI4HPC 2026 </h1>
       <h2><font size="6">
 The 5th International Workshop on Extreme Heterogeneity Solutions</font></h2>
       <p>to be held in conjunction with<br>
