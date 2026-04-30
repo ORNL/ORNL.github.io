@@ -60,19 +60,45 @@ TBD
 
 
 <h2>Steering Committee</h2>
+
 <p>
-TBD
+<strong>Antonio J. Pena</strong>, Barcelona Supercomputing Center, Spain<br />
 </p>
+<p>
+<strong>Jeffrey S. Vetter</strong>, Oak Ridge National Laboratory, USA<br />
+</p>
+<p>
+<strong>Sunita Chandrasekaran</strong>, University of Delaware, USA<br />
+</p>
+<p>
+<strong>Toshiyuki Imamura</strong>, RIKEN, Japan<br />
+</p>
+<p>
+<strong>Franz Franchetti</strong>Carnegie Mellon University, USA<br />
+</p>
+
 
 <h2>Organizers (Contact us)</h2>
 
 <p>
-<strong>Monil Mohammad Alaul Haque (General Co-Chair)</strong><br>
+<strong>Monil Mohammad Alaul Haque (Chair)</strong><br>
 Oak Ridge National Laboratory, USA<br>
 <i>monilm@ornl.gov</i>
 </p>
 <p>
-TBD
+<strong>Pedro Valero-Lara (co-chair)</strong><br>
+Oak Ridge National Laboratory, USA
+<i>valerolarap@ornl.gov</i>
+</p>
+<p>
+<strong>Daichi Mukunoki (co-chair)</strong><br>
+Nagyoa University, Japan 
+<i>mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</i>
+</p>
+<p>
+<strong>Bogdan Nicolae (co-chair)</strong><br>
+Argonne National Laboratory, USA 
+<i>bnicolae@anl.gov</i>
 </p>
 
 
