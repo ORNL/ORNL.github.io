@@ -87,17 +87,17 @@ Oak Ridge National Laboratory, USA<br>
 </p>
 <p>
 <strong>Pedro Valero-Lara (co-chair)</strong><br>
-Oak Ridge National Laboratory, USA
+Oak Ridge National Laboratory, USA <br>
 <i>valerolarap@ornl.gov</i>
 </p>
 <p>
 <strong>Daichi Mukunoki (co-chair)</strong><br>
-Nagyoa University, Japan 
+Nagyoa University, Japan <br>
 <i>mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</i>
 </p>
 <p>
 <strong>Bogdan Nicolae (co-chair)</strong><br>
-Argonne National Laboratory, USA 
+Argonne National Laboratory, USA <br>
 <i>bnicolae@anl.gov</i>
 </p>
 
