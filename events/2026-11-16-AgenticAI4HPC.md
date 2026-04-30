@@ -74,7 +74,7 @@ TBD
 <strong>Toshiyuki Imamura</strong>, RIKEN, Japan<br />
 </p>
 <p>
-<strong>Franz Franchetti</strong>Carnegie Mellon University, USA<br />
+<strong>Franz Franchetti</strong>, Carnegie Mellon University, USA<br />
 </p>
 
 
