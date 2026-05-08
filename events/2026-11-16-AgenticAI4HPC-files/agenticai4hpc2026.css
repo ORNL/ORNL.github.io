@@ -2,7 +2,15 @@
    AgenticAI4HPC 2026 — workshop page styles
    Every selector is scoped under .aai-page so this file
    cannot affect any other event page on the site.
+   The single exception is the Cayman-theme header rule
+   below, which is unscoped — but this stylesheet is only
+   loaded on this one page, so the rule is page-local.
    ======================================================== */
+
+/* Hide Cayman theme's auto-generated header so we only
+   show our custom .aai-hero. Affects only this page since
+   this CSS file is linked nowhere else. */
+header.page-header { display: none !important; }
 
 .aai-page {
   --aai-bg:        #f7f8fc;
