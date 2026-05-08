@@ -147,36 +147,55 @@ header.page-header { display: none !important; }
   background: var(--aai-surface);
   border: 1px solid var(--aai-border);
   border-radius: var(--aai-radius);
-  padding: .8rem 1rem;
+  padding: .65rem 1.25rem;
   margin: 0 0 1.5rem;
   box-shadow: var(--aai-shadow);
   display: flex;
-  flex-wrap: wrap;
-  gap: .5rem;
-  justify-content: center;
+  flex-wrap: nowrap;
+  gap: .25rem;
+  justify-content: space-between;
+  align-items: center;
+  overflow-x: auto;
+  scrollbar-width: thin;
 }
+.aai-page .aai-nav::-webkit-scrollbar { height: 4px; }
+.aai-page .aai-nav::-webkit-scrollbar-thumb { background: var(--aai-border); border-radius: 2px; }
+
 .aai-page .aai-nav a {
-  display: inline-block;
-  padding: .45rem 1rem;
-  border-radius: 999px;
-  font-size: .92rem;
+  position: relative;
+  flex: 0 0 auto;
+  padding: .35rem .35rem;
+  font-size: .82rem;
   font-weight: 600;
-  color: var(--aai-text);
-  background: linear-gradient(180deg, #fafbff, #f3f4ff);
-  border: 1px solid var(--aai-border);
-  transition: transform .12s ease, background .15s ease, color .15s ease, border-color .15s ease, box-shadow .15s ease;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--aai-muted);
+  border-bottom: none;
   white-space: nowrap;
+  transition: color .15s ease;
+}
+.aai-page .aai-nav a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--aai-accent), var(--aai-accent-2));
+  border-radius: 2px;
+  transform: translateX(-50%);
+  transition: width .22s ease;
 }
 .aai-page .aai-nav a:hover {
-  background: linear-gradient(135deg, var(--aai-accent), var(--aai-accent-2));
-  color: #fff;
-  border-color: transparent;
-  box-shadow: 0 4px 12px rgba(91, 84, 230, 0.30);
-  transform: translateY(-1px);
+  color: var(--aai-accent);
+  border-bottom: none;
 }
-@media (max-width: 640px) {
-  .aai-page .aai-nav { padding: .6rem .5rem; gap: .35rem; }
-  .aai-page .aai-nav a { padding: .35rem .8rem; font-size: .85rem; }
+.aai-page .aai-nav a:hover::after {
+  width: calc(100% - .7rem);
+}
+@media (max-width: 800px) {
+  .aai-page .aai-nav { justify-content: flex-start; gap: .8rem; padding: .6rem .8rem; }
+  .aai-page .aai-nav a { font-size: .78rem; padding: .35rem .25rem; }
 }
 
 /* ---------- Sections ---------- */

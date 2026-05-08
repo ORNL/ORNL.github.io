@@ -34,11 +34,11 @@ header-includes:
     <a href="#introduction">Introduction</a>
     <a href="#topics">Topics</a>
     <a href="#program">Program</a>
-    <a href="#dates">Important Dates</a>
-    <a href="#invited-talks">Invited Talks</a>
+    <a href="#dates">Dates</a>
+    <a href="#invited-talks">Speakers</a>
     <a href="#organizers">Organizers</a>
-    <a href="#steering">Steering Committee</a>
-    <a href="#programme-committee">Programme Committee</a>
+    <a href="#steering">Steering</a>
+    <a href="#programme-committee">Committee</a>
     <a href="#submission">Submission</a>
     <a href="#registration">Registration</a>
   </nav>
