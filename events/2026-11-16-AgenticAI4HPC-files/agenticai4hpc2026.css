@@ -12,6 +12,15 @@
    this CSS file is linked nowhere else. */
 header.page-header { display: none !important; }
 
+/* Cayman caps .main-content at 64rem; widen it for this page. */
+.main-content {
+  max-width: 1400px !important;
+  padding: 1.5rem 1.25rem !important;
+}
+@media (max-width: 720px) {
+  .main-content { padding: 1rem 0.75rem !important; }
+}
+
 .aai-page {
   --aai-bg:        #f7f8fc;
   --aai-surface:   #ffffff;
@@ -32,7 +41,7 @@ header.page-header { display: none !important; }
   background: var(--aai-bg);
   margin: 0 auto;
   padding: 0 1.25rem 4rem;
-  max-width: 1080px;
+  max-width: 1400px;
   font-size: 17px;
 }
 
