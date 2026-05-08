@@ -30,7 +30,20 @@ header-includes:
     </div>
   </header>
 
-  <section class="aai-section">
+  <nav class="aai-nav" aria-label="Section navigation">
+    <a href="#introduction">Introduction</a>
+    <a href="#topics">Topics</a>
+    <a href="#program">Program</a>
+    <a href="#dates">Important Dates</a>
+    <a href="#invited-talks">Invited Talks</a>
+    <a href="#organizers">Organizers</a>
+    <a href="#steering">Steering Committee</a>
+    <a href="#programme-committee">Programme Committee</a>
+    <a href="#submission">Submission</a>
+    <a href="#registration">Registration</a>
+  </nav>
+
+  <section class="aai-section" id="introduction">
     <h2>Introduction</h2>
     <p>
       Recent progress in agentic AI—AI systems capable of autonomous planning, reasoning, adaptation, and tool use—opens transformative opportunities across the HPC research landscape. Beyond system-level optimization, agentic AI can play a pivotal role in code modernization, automated code translation across programming models, performance tuning for diverse hardware platforms, and the long-term sustainability of large scientific software stacks.
@@ -43,7 +56,7 @@ header-includes:
     </p>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="topics">
     <h2>Objectives, Scope and Topics</h2>
     <p>
       The main goal of this workshop is to build bridges between HPC and AI by fostering interdisciplinary dialogue at the intersection of autonomous AI systems and advanced computing, and to define the future role of agentic AI in advancing the entire HPC research ecosystem. Topics of interest include, but are not limited to:
@@ -92,7 +105,7 @@ header-includes:
     </ul>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="program">
     <h2>Program (Tentative)</h2>
     <div class="aai-schedule">
       <div class="aai-row">
@@ -126,7 +139,7 @@ header-includes:
     </div>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="dates">
     <h2>Important Dates</h2>
     <ul class="aai-dates">
       <li>
@@ -151,7 +164,7 @@ header-includes:
     </ul>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="invited-talks">
     <h2>Invited Talks</h2>
 
     <div class="aai-speaker">
@@ -183,22 +196,7 @@ header-includes:
     </div>
   </section>
 
-  <section class="aai-section">
-    <h2>Steering Committee</h2>
-    <div class="aai-people">
-      <div class="aai-person"><span class="aai-name">Jeffrey S. Vetter</span><span class="aai-aff">Section Head, Oak Ridge National Laboratory, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Sunita Chandrasekaran</span><span class="aai-aff">Associate Professor &amp; Co-Director, AI Center of Excellence, University of Delaware, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Antonio J. Peña</span><span class="aai-aff">Senior Researcher, Barcelona Supercomputing Center, Spain</span></div>
-      <div class="aai-person"><span class="aai-name">Ignacio Laguna</span><span class="aai-aff">Computer Scientist, Lawrence Livermore National Laboratory, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Toshiyuki Imamura</span><span class="aai-aff">Team Leader, RIKEN Center for Computational Science, Japan</span></div>
-      <div class="aai-person"><span class="aai-name">Franz Franchetti</span><span class="aai-aff">Professor, Carnegie Mellon University, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Abhinav Bhatele</span><span class="aai-aff">Associate Professor, University of Maryland, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Ali Jannesari</span><span class="aai-aff">Associate Professor, Iowa State University, USA</span></div>
-      <div class="aai-person"><span class="aai-name">Rio Yokota</span><span class="aai-aff">Professor, Institute of Science Tokyo, Japan</span></div>
-    </div>
-  </section>
-
-  <section class="aai-section">
+  <section class="aai-section" id="organizers">
     <h2>Organizers (Contact us)</h2>
     <div class="aai-people aai-stack">
       <div class="aai-person aai-has-photo">
@@ -244,7 +242,76 @@ header-includes:
     </div>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="steering">
+    <h2>Steering Committee</h2>
+    <div class="aai-people aai-grid-3">
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/vetter.png" alt="Jeffrey S. Vetter"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Jeffrey S. Vetter</span>
+          <span class="aai-aff">Section Head, Oak Ridge National Laboratory, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/chandrasekaran.jpg" alt="Sunita Chandrasekaran"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Sunita Chandrasekaran</span>
+          <span class="aai-aff">Associate Professor &amp; Co-Director, AI Center of Excellence, University of Delaware, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/pena.jpg" alt="Antonio J. Peña"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Antonio J. Peña</span>
+          <span class="aai-aff">Senior Researcher, Barcelona Supercomputing Center, Spain</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/laguna.jpg" alt="Ignacio Laguna"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Ignacio Laguna</span>
+          <span class="aai-aff">Computer Scientist, Lawrence Livermore National Laboratory, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/imamura.jpg" alt="Toshiyuki Imamura"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Toshiyuki Imamura</span>
+          <span class="aai-aff">Team Leader, RIKEN Center for Computational Science, Japan</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/franchetti.png" alt="Franz Franchetti"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Franz Franchetti</span>
+          <span class="aai-aff">Professor, Carnegie Mellon University, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/bhatele.jpg" alt="Abhinav Bhatele"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Abhinav Bhatele</span>
+          <span class="aai-aff">Associate Professor, University of Maryland, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/jannesari.jpg" alt="Ali Jannesari"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Ali Jannesari</span>
+          <span class="aai-aff">Associate Professor, Iowa State University, USA</span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/yokota.jpg" alt="Rio Yokota"></div>
+        <div class="aai-person-info">
+          <span class="aai-name">Rio Yokota</span>
+          <span class="aai-aff">Professor, Institute of Science Tokyo, Japan</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="aai-section" id="programme-committee">
     <h2>Programme Committee</h2>
     <p class="aai-note">
       <strong>Note:</strong> The list below shows the currently confirmed members. Additional members are being added — please check back soon.
@@ -265,7 +332,7 @@ header-includes:
     </ul>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="submission">
     <h2>Manuscript Submission</h2>
     <p>
       We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the SC26 workshop submission system. NOT YET OPEN FOR SUBMISSION.
@@ -295,7 +362,7 @@ header-includes:
     </p>
   </section>
 
-  <section class="aai-section">
+  <section class="aai-section" id="registration">
     <h2>Registration</h2>
     <p>
       Information about registration is available at the <a href="https://sc26.supercomputing.org">SC 2026 website</a>.
