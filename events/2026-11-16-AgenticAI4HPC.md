@@ -316,20 +316,68 @@ header-includes:
     <p class="aai-note">
       <strong>Note:</strong> The list below shows the currently confirmed members. Additional members are being added — please check back soon.
     </p>
-    <ul class="aai-pc">
-      <li><strong>Upasana Sridhar</strong><br><span class="aai-aff">Carnegie Mellon University, USA</span></li>
-      <li><strong>Johannes Doerfert</strong><br><span class="aai-aff">Lawrence Livermore National Laboratory, USA</span></li>
-      <li><strong>Xingfu Wu</strong><br><span class="aai-aff">Argonne National Laboratory, USA</span></li>
-      <li><strong>Tanzima Islam</strong><br><span class="aai-aff">Texas State University, USA</span></li>
-      <li><strong>Olivier Aumage</strong><br><span class="aai-aff">INRIA, France</span></li>
-      <li><strong>William F. Godoy</strong><br><span class="aai-aff">Oak Ridge National Laboratory, USA</span></li>
-      <li><strong>Simon Garcia De Gonzalo</strong><br><span class="aai-aff">Sandia National Laboratory, USA</span></li>
-      <li><strong>Aaron Young</strong><br><span class="aai-aff">Oak Ridge National Laboratory, USA</span></li>
-      <li><strong>Diego Andrade Canosa</strong><br><span class="aai-aff">University of A Coruña, Spain</span></li>
-      <li><strong>Eduardo Iraola</strong><br><span class="aai-aff">Barcelona Supercomputing Center, Spain</span></li>
-      <li><strong>Grace Mclewee</strong><br><span class="aai-aff">University of Oregon, USA</span></li>
-      <li><strong>Arijit Bhattacharjee</strong><br><span class="aai-aff">Iowa State University, USA</span></li>
-    </ul>
+    <div class="aai-pc-grid">
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/sridhar.jpg" alt="Upasana Sridhar"></div>
+        <div class="aai-pc-name">Upasana Sridhar</div>
+        <div class="aai-pc-aff">Carnegie Mellon University, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/doerfert.jpg" alt="Johannes Doerfert"></div>
+        <div class="aai-pc-name">Johannes Doerfert</div>
+        <div class="aai-pc-aff">Lawrence Livermore National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/xingfu.jpg" alt="Xingfu Wu"></div>
+        <div class="aai-pc-name">Xingfu Wu</div>
+        <div class="aai-pc-aff">Argonne National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/islam.jpg" alt="Tanzima Islam"></div>
+        <div class="aai-pc-name">Tanzima Islam</div>
+        <div class="aai-pc-aff">Texas State University, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/aumage.jpg" alt="Olivier Aumage"></div>
+        <div class="aai-pc-name">Olivier Aumage</div>
+        <div class="aai-pc-aff">INRIA, France</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/godoy.jpg" alt="William F. Godoy"></div>
+        <div class="aai-pc-name">William F. Godoy</div>
+        <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/garciadegonzalo.jpg" alt="Simon Garcia De Gonzalo"></div>
+        <div class="aai-pc-name">Simon Garcia De Gonzalo</div>
+        <div class="aai-pc-aff">Sandia National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/young.jpg" alt="Aaron Young"></div>
+        <div class="aai-pc-name">Aaron Young</div>
+        <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/andrade.jpg" alt="Diego Andrade Canosa"></div>
+        <div class="aai-pc-name">Diego Andrade Canosa</div>
+        <div class="aai-pc-aff">University of A Coruña, Spain</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/iraola.jpg" alt="Eduardo Iraola"></div>
+        <div class="aai-pc-name">Eduardo Iraola</div>
+        <div class="aai-pc-aff">Barcelona Supercomputing Center, Spain</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/mclewee.png" alt="Grace Mclewee"></div>
+        <div class="aai-pc-name">Grace Mclewee</div>
+        <div class="aai-pc-aff">University of Oregon, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/bhattacharjee.jpeg" alt="Arijit Bhattacharjee"></div>
+        <div class="aai-pc-name">Arijit Bhattacharjee</div>
+        <div class="aai-pc-aff">Iowa State University, USA</div>
+      </div>
+    </div>
   </section>
 
   <section class="aai-section" id="submission">

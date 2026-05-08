@@ -409,23 +409,61 @@ header.page-header { display: none !important; }
 }
 .aai-page .aai-note strong { color: #7a5a0a; }
 
-/* ---------- PC list ---------- */
-.aai-page .aai-pc {
-  list-style: none;
-  padding: 0; margin: 0;
+/* ---------- PC list (card grid, 4 per row) ---------- */
+.aai-page .aai-pc-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: .35rem .9rem;
-  column-gap: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
 }
-.aai-page .aai-pc li {
-  padding: .4rem 0;
-  border-bottom: 1px dashed var(--aai-border);
-  font-size: .96rem;
+@media (max-width: 1024px) { .aai-page .aai-pc-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 720px)  { .aai-page .aai-pc-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 420px)  { .aai-page .aai-pc-grid { grid-template-columns: 1fr; } }
+
+.aai-page .aai-pc-card {
+  background: #fafbff;
+  border: 1px solid var(--aai-border);
+  border-radius: 12px;
+  padding: 1rem .75rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .35rem;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
 }
-.aai-page .aai-pc li:last-child { border-bottom: none; }
-.aai-page .aai-pc li strong { color: var(--aai-text); }
-.aai-page .aai-pc li .aai-aff { color: var(--aai-muted); font-size: .9rem; }
+.aai-page .aai-pc-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--aai-shadow);
+  border-color: #d9d4ff;
+}
+.aai-page .aai-pc-photo {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #ddd;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 10px rgba(91, 84, 230, 0.18);
+  margin-bottom: .35rem;
+}
+.aai-page .aai-pc-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+.aai-page .aai-pc-name {
+  font-weight: 700;
+  font-size: .95rem;
+  color: var(--aai-text);
+  line-height: 1.25;
+}
+.aai-page .aai-pc-aff {
+  font-size: .82rem;
+  color: var(--aai-muted);
+  line-height: 1.3;
+}
 
 /* ---------- Speaker cards ---------- */
 .aai-page .aai-speaker {
