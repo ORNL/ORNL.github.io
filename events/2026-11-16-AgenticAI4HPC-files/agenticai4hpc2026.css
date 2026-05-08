@@ -1,23 +1,424 @@
+/* ========================================================
+   AgenticAI4HPC 2026 — workshop page styles
+   Every selector is scoped under .aai-page so this file
+   cannot affect any other event page on the site.
+   ======================================================== */
 
-h1 {
-	font-size:48px;
+.aai-page {
+  --aai-bg:        #f7f8fc;
+  --aai-surface:   #ffffff;
+  --aai-text:      #1f2433;
+  --aai-muted:     #5b6478;
+  --aai-border:    #e4e7ef;
+  --aai-accent:    #5b54e6;   /* indigo */
+  --aai-accent-2:  #11a8c2;   /* cyan   */
+  --aai-accent-3:  #f59e0b;   /* amber  */
+  --aai-shadow:    0 4px 14px rgba(20, 28, 60, 0.06);
+  --aai-shadow-lg: 0 14px 40px rgba(20, 28, 60, 0.10);
+  --aai-radius:    14px;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  color: var(--aai-text);
+  line-height: 1.65;
+  background: var(--aai-bg);
+  margin: 0 auto;
+  padding: 0 1.25rem 4rem;
+  max-width: 1080px;
+  font-size: 17px;
 }
 
-body {
-        font-family:Sans-serif;
- 	margin-left:50px;
-	width:850px;
+.aai-page * { box-sizing: border-box; }
+
+.aai-page a {
+  color: var(--aai-accent);
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(91, 84, 230, 0.4);
+  transition: color .15s ease, border-color .15s ease;
+}
+.aai-page a:hover {
+  color: var(--aai-accent-2);
+  border-bottom-color: var(--aai-accent-2);
 }
 
-div {
-	text-align:justify;
-}
-.header {
-  padding: 60px;
+/* ---------- Hero ---------- */
+.aai-page .aai-hero {
+  position: relative;
+  margin: 1.5rem 0 2.25rem;
+  padding: 4rem 2rem 3.5rem;
+  border-radius: 20px;
+  color: #fff;
   text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
+  overflow: hidden;
+  background:
+    radial-gradient(1200px 400px at 80% -10%, rgba(255,255,255,.16), transparent 60%),
+    radial-gradient(900px 360px at -10% 110%, rgba(255,255,255,.10), transparent 60%),
+    linear-gradient(135deg, #2a1f6f 0%, #5b54e6 45%, #11a8c2 100%);
+  box-shadow: var(--aai-shadow-lg);
+}
+.aai-page .aai-hero::before {
+  content: "";
+  position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 38px 38px;
+  -webkit-mask-image: radial-gradient(ellipse at center, #000 35%, transparent 75%);
+          mask-image: radial-gradient(ellipse at center, #000 35%, transparent 75%);
+  pointer-events: none;
+}
+.aai-page .aai-hero > * { position: relative; }
+
+.aai-page .aai-eyebrow {
+  display: inline-block;
+  font-size: 1rem;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  padding: .5rem 1rem;
+  background: rgba(255,255,255,.14);
+  border: 1px solid rgba(255,255,255,.25);
+  border-radius: 999px;
+  margin-bottom: 1.25rem;
+  color: #fff;
+  font-weight: 600;
+}
+.aai-page .aai-hero h1 {
+  font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+  margin: 0 0 .5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  color: #fff;
+}
+.aai-page .aai-hero .aai-subtitle {
+  font-size: clamp(1.25rem, 2.6vw, 1.7rem);
+  font-weight: 600;
+  opacity: .98;
+  margin: 0 auto;
+  max-width: 950px;
+  line-height: 1.25;
+}
+.aai-page .aai-hero .aai-meta {
+  margin-top: 1.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  justify-content: center;
+}
+.aai-page .aai-hero .aai-meta span {
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.25);
+  border-radius: 999px;
+  padding: .55rem 1.15rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.aai-page .aai-hero .aai-meta a {
+  color: #fff;
+  border-bottom-color: rgba(255,255,255,.5);
+}
+.aai-page .aai-hero .aai-meta a:hover {
+  color: #fff;
+  border-bottom-color: #fff;
 }
 
+/* ---------- Sections ---------- */
+.aai-page h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--aai-text);
+  margin: 0 0 1rem;
+  padding-bottom: .55rem;
+  background-image: linear-gradient(90deg, var(--aai-accent), var(--aai-accent-2));
+  background-repeat: no-repeat;
+  background-size: 64px 3px;
+  background-position: 0 100%;
+}
 
+.aai-page .aai-section {
+  background: var(--aai-surface);
+  border: 1px solid var(--aai-border);
+  border-radius: var(--aai-radius);
+  padding: 1.75rem 1.9rem;
+  margin: 0 0 1.5rem;
+  box-shadow: var(--aai-shadow);
+}
+.aai-page .aai-section p { margin: 0 0 .85rem; }
+.aai-page .aai-section p:last-child { margin-bottom: 0; }
+
+/* ---------- Topics ---------- */
+.aai-page .aai-topics {
+  list-style: none;
+  padding: 0; margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+@media (max-width: 720px) {
+  .aai-page .aai-topics { grid-template-columns: 1fr; }
+}
+.aai-page .aai-topics > li {
+  background: linear-gradient(180deg, #fafbff, #ffffff);
+  border: 1px solid var(--aai-border);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+}
+.aai-page .aai-topics > li > strong {
+  display: block;
+  color: var(--aai-accent);
+  font-size: 1rem;
+  letter-spacing: .01em;
+  margin-bottom: .5rem;
+}
+.aai-page .aai-topics ul {
+  list-style: none;
+  padding: 0; margin: 0;
+}
+.aai-page .aai-topics ul li {
+  position: relative;
+  padding-left: 1.1rem;
+  margin: .25rem 0;
+  font-size: .96rem;
+  color: var(--aai-muted);
+}
+.aai-page .aai-topics ul li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: .65em;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--aai-accent-2);
+}
+
+/* ---------- Program schedule ---------- */
+.aai-page .aai-schedule {
+  display: grid;
+  gap: .55rem;
+}
+.aai-page .aai-row {
+  display: grid;
+  grid-template-columns: 175px 1fr;
+  gap: 1rem;
+  align-items: baseline;
+  padding: .7rem .9rem;
+  border-radius: 10px;
+  background: #fafbff;
+  border: 1px solid var(--aai-border);
+}
+.aai-page .aai-row.aai-break {
+  background: #fff7e6;
+  border-color: #fde9bf;
+  font-style: italic;
+  color: var(--aai-muted);
+}
+.aai-page .aai-row.aai-highlight {
+  background: linear-gradient(180deg, #f3f1ff, #fafbff);
+  border-color: #d9d4ff;
+}
+.aai-page .aai-time {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--aai-accent);
+}
+.aai-page .aai-talk-title { color: var(--aai-text); }
+
+/* ---------- Important dates ---------- */
+.aai-page .aai-dates {
+  list-style: none;
+  padding: 0; margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: .9rem;
+}
+.aai-page .aai-dates li {
+  background: linear-gradient(135deg, #f3f1ff, #e8f7fa);
+  border: 1px solid #d9d4ff;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+}
+.aai-page .aai-dates .aai-label {
+  display: block;
+  font-size: .8rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--aai-muted);
+  margin-bottom: .25rem;
+}
+.aai-page .aai-dates .aai-date {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--aai-text);
+}
+
+/* ---------- People grid ---------- */
+.aai-page .aai-people {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: .85rem;
+}
+.aai-page .aai-people.aai-stack {
+  grid-template-columns: 1fr;
+}
+.aai-page .aai-person {
+  background: #fafbff;
+  border: 1px solid var(--aai-border);
+  border-left: 3px solid var(--aai-accent);
+  border-radius: 10px;
+  padding: .85rem 1rem;
+}
+.aai-page .aai-person .aai-name {
+  font-weight: 700;
+  color: var(--aai-text);
+  display: block;
+  margin-bottom: .15rem;
+}
+.aai-page .aai-person .aai-aff {
+  font-size: .92rem;
+  color: var(--aai-muted);
+}
+.aai-page .aai-person .aai-mail {
+  display: inline-block;
+  margin-top: .35rem;
+  font-size: .9rem;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+/* ---------- Person card with thumbnail (organizers) ---------- */
+.aai-page .aai-person.aai-has-photo {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: .9rem;
+  align-items: center;
+}
+.aai-page .aai-person-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #ddd;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 10px rgba(91, 84, 230, 0.18);
+  flex-shrink: 0;
+}
+.aai-page .aai-person-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+.aai-page .aai-person-info { min-width: 0; }
+.aai-page .aai-person-info .aai-mail { word-break: break-all; }
+
+/* ---------- Inline note ---------- */
+.aai-page .aai-note {
+  background: linear-gradient(135deg, #fff7e6, #fffbf0);
+  border: 1px solid #fde9bf;
+  border-left: 4px solid var(--aai-accent-3);
+  border-radius: 10px;
+  padding: .75rem 1rem;
+  margin: 0 0 1rem;
+  font-size: .95rem;
+  color: #5a4a1a;
+}
+.aai-page .aai-note strong { color: #7a5a0a; }
+
+/* ---------- PC list ---------- */
+.aai-page .aai-pc {
+  list-style: none;
+  padding: 0; margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: .35rem .9rem;
+  column-gap: 1.5rem;
+}
+.aai-page .aai-pc li {
+  padding: .4rem 0;
+  border-bottom: 1px dashed var(--aai-border);
+  font-size: .96rem;
+}
+.aai-page .aai-pc li:last-child { border-bottom: none; }
+.aai-page .aai-pc li strong { color: var(--aai-text); }
+.aai-page .aai-pc li .aai-aff { color: var(--aai-muted); font-size: .9rem; }
+
+/* ---------- Speaker cards ---------- */
+.aai-page .aai-speaker {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.25rem;
+  padding: 1.25rem 1.4rem;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f3f1ff, #fafbff);
+  border: 1px solid #d9d4ff;
+  margin-bottom: 1.1rem;
+  align-items: start;
+}
+.aai-page .aai-speaker:last-child { margin-bottom: 0; }
+
+.aai-page .aai-speaker-photo {
+  width: 160px;
+  height: 160px;
+  aspect-ratio: 1 / 1;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #ddd;
+  border: 3px solid #fff;
+  box-shadow: 0 6px 18px rgba(91, 84, 230, 0.20);
+  flex-shrink: 0;
+}
+.aai-page .aai-speaker-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+.aai-page .aai-speaker-body {
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+}
+.aai-page .aai-speaker .aai-tag {
+  font-size: .75rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--aai-accent);
+  font-weight: 700;
+}
+.aai-page .aai-speaker .aai-talk {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--aai-text);
+  margin: .15rem 0 .35rem;
+  line-height: 1.3;
+}
+.aai-page .aai-speaker .aai-who {
+  color: var(--aai-muted);
+  font-size: .98rem;
+  margin-bottom: .35rem;
+}
+.aai-page .aai-speaker .aai-bio {
+  font-size: .96rem;
+  color: #364055;
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .aai-page .aai-speaker {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+  .aai-page .aai-speaker-photo { width: 140px; }
+  .aai-page .aai-speaker-body { align-items: center; }
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 640px) {
+  .aai-page .aai-hero { padding: 2.5rem 1.25rem 2.25rem; border-radius: 14px; }
+  .aai-page .aai-section { padding: 1.25rem 1.1rem; }
+  .aai-page .aai-row { grid-template-columns: 1fr; gap: .15rem; }
+  .aai-page .aai-time { font-size: .85rem; }
+}

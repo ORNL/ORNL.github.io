@@ -15,219 +15,291 @@ header-includes:
   - \usepackage{wallpaper}
 ---
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AgenticAI4HPC 2026</title>
-<link rel="stylesheet" href="./2026-11-16-AgenticAI4HPC-files/agenticai4hpc2026.css" type="text/css">
-</head>
-<body>
+<link rel="stylesheet" href="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/agenticai4hpc2026.css" type="text/css">
 
+<div class="aai-page">
 
+  <header class="aai-hero">
+    <span class="aai-eyebrow">SC 2026 · Workshop</span>
+    <h1>AgenticAI4HPC 2026</h1>
+    <p class="aai-subtitle">The 1st International Workshop on Agentic AI for HPC</p>
+    <div class="aai-meta">
+      <span>15–20 November 2026</span>
+      <span>Chicago, USA</span>
+      <span>Co-located with <a href="https://sc26.supercomputing.org">SC 2026</a></span>
+    </div>
+  </header>
 
-<div class="header">
-      <h1>AgenticAI4HPC 2026 </h1>
-      <h2><font size="6">
-       The 1st International Workshop on Agentic AI for HPC</font></h2>
-      <p>to be held in conjunction with<br>
-	      <a href="https://sc26.supercomputing.org">SC 2026</a>
-      </p><p>
+  <section class="aai-section">
+    <h2>Introduction</h2>
+    <p>
+      Recent progress in agentic AI—AI systems capable of autonomous planning, reasoning, adaptation, and tool use—opens transformative opportunities across the HPC research landscape. Beyond system-level optimization, agentic AI can play a pivotal role in code modernization, automated code translation across programming models, performance tuning for diverse hardware platforms, and the long-term sustainability of large scientific software stacks.
+    </p>
+    <p>
+      As HPC systems continue to evolve toward exascale and beyond, developers face increasing challenges in maintaining legacy codes, porting applications to emerging architectures, and achieving performance portability across changing programming models and runtime environments. Agentic approaches offer the potential to autonomously refactor legacy codes, translate between models, recommend architecture-aware optimizations, and iteratively tune applications.
+    </p>
+    <p>
+      AgenticAI4HPC’26 will bring together researchers and practitioners to explore methodologies, systems, and real-world applications that leverage agentic AI to accelerate HPC software development, enhance productivity, and enable sustainable performance at scale. By fostering interdisciplinary dialogue at the intersection of autonomous AI systems and advanced computing, the workshop aims to define the future role of agentic AI in advancing the entire HPC research ecosystem.
+    </p>
+  </section>
 
-      </p><p>
-       15-20 November, 2026<br> Chicago, USA</p>
+  <section class="aai-section">
+    <h2>Objectives, Scope and Topics</h2>
+    <p>
+      The main goal of this workshop is to build bridges between HPC and AI by fostering interdisciplinary dialogue at the intersection of autonomous AI systems and advanced computing, and to define the future role of agentic AI in advancing the entire HPC research ecosystem. Topics of interest include, but are not limited to:
+    </p>
+
+    <ul class="aai-topics">
+      <li>
+        <strong>Programming Models, Code Modernization &amp; Sustainability</strong>
+        <ul>
+          <li>Agent-based support for HPC programming models</li>
+          <li>Autonomous code translation across programming models and hardware backends</li>
+          <li>Intelligent runtime systems and adaptive execution frameworks</li>
+          <li>Automated modernization of legacy HPC applications</li>
+          <li>AI-driven refactoring for scalability, maintainability, and portability</li>
+          <li>Sustainable software engineering practices enabled by agentic systems</li>
+        </ul>
+      </li>
+      <li>
+        <strong>Scientific Workflows &amp; Application Development</strong>
+        <ul>
+          <li>Intelligent workflow composition and orchestration</li>
+          <li>Iterative optimization through reinforcement learning or multi-agent systems</li>
+          <li>Agent-assisted debugging, verification, and validation</li>
+          <li>AI-driven parallel and distributed algorithm design</li>
+          <li>Integration of simulation, data analytics, and AI workloads</li>
+        </ul>
+      </li>
+      <li>
+        <strong>Co-Design &amp; Human–AI Collaboration in HPC</strong>
+        <ul>
+          <li>Human-in-the-loop agentic systems for scientific computing</li>
+          <li>Hardware–software–application co-design with autonomous agents</li>
+          <li>Productivity tools and AI copilots for HPC developers</li>
+          <li>Trust, transparency, and reproducibility in agent-driven HPC systems</li>
+        </ul>
+      </li>
+      <li>
+        <strong>Evaluation, Benchmarking &amp; Reliability</strong>
+        <ul>
+          <li>Benchmarking agentic AI approaches in HPC environments</li>
+          <li>Reliability, robustness, and fault tolerance of autonomous systems</li>
+          <li>Measurement methodologies for productivity and performance gains</li>
+          <li>Case studies and real-world deployments of agentic AI in HPC</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section class="aai-section">
+    <h2>Program (Tentative)</h2>
+    <div class="aai-schedule">
+      <div class="aai-row">
+        <span class="aai-time">9:00 – 9:05</span>
+        <span class="aai-talk-title">Opening Remarks</span>
+      </div>
+      <div class="aai-row aai-highlight">
+        <span class="aai-time">9:05 – 9:40</span>
+        <span class="aai-talk-title"><strong>Invited Talk 1 (Ali Jannesari):</strong> From Code Generation to Performance Reasoning — Agentic AI for the Autonomous HPC Stack</span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">9:40 – 10:00</span>
+        <span class="aai-talk-title">Paper Presentation 1</span>
+      </div>
+      <div class="aai-row aai-break">
+        <span class="aai-time">10:00 – 10:30</span>
+        <span class="aai-talk-title">Morning break</span>
+      </div>
+      <div class="aai-row aai-highlight">
+        <span class="aai-time">10:30 – 11:05</span>
+        <span class="aai-talk-title"><strong>Invited Talk 2 (Abhinav Bhatele):</strong> Agentic Approaches to Generate and Optimize Parallel Code</span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:05 – 12:20</span>
+        <span class="aai-talk-title">Paper Presentations 2</span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:20 – 12:30</span>
+        <span class="aai-talk-title">Best Paper Recognition and Closing</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="aai-section">
+    <h2>Important Dates</h2>
+    <ul class="aai-dates">
+      <li>
+        <span class="aai-label">Submission</span>
+        <span class="aai-date">August 1, 2026</span>
+        <small>(AoE)</small>
+      </li>
+      <li>
+        <span class="aai-label">Acceptance</span>
+        <span class="aai-date">September 4, 2026</span>
+        <small>(AoE)</small>
+      </li>
+      <li>
+        <span class="aai-label">Camera Ready</span>
+        <span class="aai-date">September 20, 2026</span>
+        <small>(AoE)</small>
+      </li>
+      <li>
+        <span class="aai-label">Workshop</span>
+        <span class="aai-date">During SC 2026</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="aai-section">
+    <h2>Invited Talks</h2>
+
+    <div class="aai-speaker">
+      <div class="aai-speaker-photo">
+        <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/jannesari.jpg" alt="Ali Jannesari">
+      </div>
+      <div class="aai-speaker-body">
+        <span class="aai-tag">Invited Talk 1 · Confirmed</span>
+        <div class="aai-talk">From Code Generation to Performance Reasoning: Agentic AI for the Autonomous HPC Stack</div>
+        <div class="aai-who"><strong>Ali Jannesari</strong> — Associate Professor, Iowa State University, USA</div>
+        <p class="aai-bio">
+          Ali Jannesari is an Associate Professor and Director of the Laboratory for Software Analytics and Pervasive Parallelism in the Department of Computer Science at Iowa State University. His research focuses on the intersection of High-Performance Computing (HPC) and Artificial Intelligence (AI). Dr. Jannesari has published over a hundred refereed articles, several of which have received awards.
+        </p>
+      </div>
+    </div>
+
+    <div class="aai-speaker">
+      <div class="aai-speaker-photo">
+        <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/bhatele.jpg" alt="Abhinav Bhatele">
+      </div>
+      <div class="aai-speaker-body">
+        <span class="aai-tag">Invited Talk 2 · Confirmed</span>
+        <div class="aai-talk">Agentic Approaches to Generate and Optimize Parallel Code</div>
+        <div class="aai-who"><strong>Abhinav Bhatele</strong> — Associate Professor, University of Maryland, USA</div>
+        <p class="aai-bio">
+          Abhinav Bhatele is an Associate Professor in the Department of Computer Science and Director of the Parallel Software and Systems Group at the University of Maryland, College Park. His research interests are broadly in systems and AI, with a focus on parallel computing and distributed AI. He has published research in parallel programming models and runtimes, network design and simulation, applications of machine learning to parallel systems, parallel deep learning, and on analyzing, visualizing, modeling and optimizing the performance of parallel software and systems.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="aai-section">
+    <h2>Steering Committee</h2>
+    <div class="aai-people">
+      <div class="aai-person"><span class="aai-name">Jeffrey S. Vetter</span><span class="aai-aff">Section Head, Oak Ridge National Laboratory, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Sunita Chandrasekaran</span><span class="aai-aff">Associate Professor &amp; Co-Director, AI Center of Excellence, University of Delaware, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Antonio J. Peña</span><span class="aai-aff">Senior Researcher, Barcelona Supercomputing Center, Spain</span></div>
+      <div class="aai-person"><span class="aai-name">Ignacio Laguna</span><span class="aai-aff">Computer Scientist, Lawrence Livermore National Laboratory, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Toshiyuki Imamura</span><span class="aai-aff">Team Leader, RIKEN Center for Computational Science, Japan</span></div>
+      <div class="aai-person"><span class="aai-name">Franz Franchetti</span><span class="aai-aff">Professor, Carnegie Mellon University, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Abhinav Bhatele</span><span class="aai-aff">Associate Professor, University of Maryland, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Ali Jannesari</span><span class="aai-aff">Associate Professor, Iowa State University, USA</span></div>
+      <div class="aai-person"><span class="aai-name">Rio Yokota</span><span class="aai-aff">Professor, Institute of Science Tokyo, Japan</span></div>
+    </div>
+  </section>
+
+  <section class="aai-section">
+    <h2>Organizers (Contact us)</h2>
+    <div class="aai-people aai-stack">
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/monil.jpg" alt="Mohammad Alaul Haque Monil">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Mohammad Alaul Haque Monil <small>(Chair)</small></span>
+          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:monilm@ornl.gov">monilm@ornl.gov</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/valero-lara.jpg" alt="Pedro Valero-Lara">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Pedro Valero-Lara <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:valerolarap@ornl.gov">valerolarap@ornl.gov</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/mukunoki.jpg" alt="Daichi Mukunoki">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Daichi Mukunoki <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Nagoya University, Japan</span>
+          <span class="aai-mail"><a href="mailto:mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp">mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/nicolae.jpg" alt="Bogdan Nicolae">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Bogdan Nicolae <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Argonne National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:bnicolae@anl.gov">bnicolae@anl.gov</a></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="aai-section">
+    <h2>Programme Committee</h2>
+    <p class="aai-note">
+      <strong>Note:</strong> The list below shows the currently confirmed members. Additional members are being added — please check back soon.
+    </p>
+    <ul class="aai-pc">
+      <li><strong>Upasana Sridhar</strong><br><span class="aai-aff">Carnegie Mellon University, USA</span></li>
+      <li><strong>Johannes Doerfert</strong><br><span class="aai-aff">Lawrence Livermore National Laboratory, USA</span></li>
+      <li><strong>Xingfu Wu</strong><br><span class="aai-aff">Argonne National Laboratory, USA</span></li>
+      <li><strong>Tanzima Islam</strong><br><span class="aai-aff">Texas State University, USA</span></li>
+      <li><strong>Olivier Aumage</strong><br><span class="aai-aff">INRIA, France</span></li>
+      <li><strong>William F. Godoy</strong><br><span class="aai-aff">Oak Ridge National Laboratory, USA</span></li>
+      <li><strong>Simon Garcia De Gonzalo</strong><br><span class="aai-aff">Sandia National Laboratory, USA</span></li>
+      <li><strong>Aaron Young</strong><br><span class="aai-aff">Oak Ridge National Laboratory, USA</span></li>
+      <li><strong>Diego Andrade Canosa</strong><br><span class="aai-aff">University of A Coruña, Spain</span></li>
+      <li><strong>Eduardo Iraola</strong><br><span class="aai-aff">Barcelona Supercomputing Center, Spain</span></li>
+      <li><strong>Grace Mclewee</strong><br><span class="aai-aff">University of Oregon, USA</span></li>
+      <li><strong>Arijit Bhattacharjee</strong><br><span class="aai-aff">Iowa State University, USA</span></li>
+    </ul>
+  </section>
+
+  <section class="aai-section">
+    <h2>Manuscript Submission</h2>
+    <p>
+      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the SC26 workshop submission system. NOT YET OPEN FOR SUBMISSION.
+    </p>
+  </section>
+
+  <section class="aai-section">
+    <h2>Proceedings</h2>
+    <p>
+      Accepted papers will be published in the IEEE Digital Library as part of the workshop proceedings of SC 2026.
+    </p>
+  </section>
+
+  <section class="aai-section">
+    <h2>Best Paper Recognition</h2>
+    <p>
+      The Best Paper Recognition will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality.
+    </p>
+  </section>
+
+  <section class="aai-section">
+    <h2>Reproducibility</h2>
+    <p>
+      Submitted papers must meet the requirements of the
+      <a href="https://sc26.supercomputing.org/program/papers/reproducibility-initiative/">SC26 reproducibility initiative</a>,
+      including Artifact Description (AD) and Artifact Evaluation (AE). Paper submissions are single-blinded; reviewers will not be known to the authors. The technical committee will be instructed to strive toward an ethical and transparent peer-review process, including declaring conflicts of interest with the authors. Each paper will receive at least three independent reviews. Acceptance criteria will be determined solely on the technical merits of the work, its impact on the accessibility of the presented paper, and the quality of the final manuscript.
+    </p>
+  </section>
+
+  <section class="aai-section">
+    <h2>Registration</h2>
+    <p>
+      Information about registration is available at the <a href="https://sc26.supercomputing.org">SC 2026 website</a>.
+    </p>
+  </section>
+
 </div>
-
-<div class="body">
-
-
-<h2>Introduction</h2>
-<p>
-Recent progress in agentic AI—AI systems capable of autonomous planning, reasoning, adaptation, and tool use—opens transformative opportunities across the HPC research landscape. Beyond system-level optimization, agentic AI can play a pivotal role in code modernization, automated code translation across programming models, performance tuning for diverse hardware platforms, and the long-term sustainability of large scientific software stacks. As HPC systems continue to evolve toward exascale and beyond, developers face increasing challenges in maintaining legacy codes, porting applications to emerging architectures, and achieving performance portability across changing programming models and runtime environments. Agentic approaches offer the potential to autonomously refactor legacy codes, translate between models, recommend architecture-aware optimizations, and iteratively tune applications. AgenticHPC’26: The First International Workshop on Agentic AI for HPC will bring together researchers and practitioners to explore methodologies, systems, and real-world applications that leverage agentic AI to accelerate HPC software development, enhance productivity, and enable sustainable performance at scale. By fostering interdisciplinary dialogue at the intersection of autonomous AI systems and advanced computing, the workshop aims to define the future role of agentic AI in advancing the entire HPC research ecosystem.
-</p>
-
-
-<h2>Objectives, scope and topics of the workshop</h2>
-The main goal of this workshop is to build bridges between HPC and AI by fostering interdisciplinary dialogue at the intersection of autonomous AI systems and advanced computing, the workshop aims to define the future role of agentic AI in advancing the entire HPC research ecosystem. Moreover, this workshop aims to provide a platform to discuss new and emerging solutions in the field of Agentic AI that are advancing HPC research. Topics of interest that align with the workshop include, but are not limited to :
-(but not limited to):</p>
-
-<h2>Program</h2>
-<p> 
-TBD
-</p>
-
-<h2>Important Dates</h2>
-<p>
-TBD
-</p>
-
-
-<h2>Steering Committee</h2>
-
-<p>
-<strong>Antonio J. Pena</strong>, Barcelona Supercomputing Center, Spain<br />
-</p>
-<p>
-<strong>Jeffrey S. Vetter</strong>, Oak Ridge National Laboratory, USA<br />
-</p>
-<p>
-<strong>Sunita Chandrasekaran</strong>, University of Delaware, USA<br />
-</p>
-<p>
-<strong>Toshiyuki Imamura</strong>, RIKEN, Japan<br />
-</p>
-<p>
-<strong>Franz Franchetti</strong>, Carnegie Mellon University, USA<br />
-</p>
-
-
-<h2>Organizers (Contact us)</h2>
-
-<p>
-<strong>Monil Mohammad Alaul Haque (Chair)</strong><br>
-Oak Ridge National Laboratory, USA<br>
-<i>monilm@ornl.gov</i>
-</p>
-<p>
-<strong>Pedro Valero-Lara (co-chair)</strong><br>
-Oak Ridge National Laboratory, USA <br>
-<i>valerolarap@ornl.gov</i>
-</p>
-<p>
-<strong>Daichi Mukunoki (co-chair)</strong><br>
-Nagyoa University, Japan <br>
-<i>mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</i>
-</p>
-<p>
-<strong>Bogdan Nicolae (co-chair)</strong><br>
-Argonne National Laboratory, USA <br>
-<i>bnicolae@anl.gov</i>
-</p>
-
-
-<h2>Programme Committee</h2>
-<ul>
-<li><strong>William F. Godoy</strong>, Oak Ridge National Laboratory, USA</li>
-TBD
-</ul>
-
-<!--
-<h2>Manuscript submission</h2>
-<p>
-We invite submissions of original, unpublished research and experiential papers. 
-Full papers should be between <strong>12 to 18</strong> pages in length, formatted according to 
-the standard ACM single-column conference format, including figures, tables, and references. 
-Additionally, we are introducing a short paper track for submissions up to <strong>8 to 9</strong> pages. 
-ACM templates for both Microsoft Word and LaTeX can be accessed <a href="https://www.sca-hpcasia2026.jp/submit/papers.html">here</a>. 
-All paper submissions will be managed electronically via <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.us%2Fv2%2Furl%3Fu%3Dhttps-3A__ssl.linklings.net_conferences_HPCAsia_%26d%3DDwIDaQ%26c%3Dv4IIwRuZAmwupIjowmMWUmLasxPEgYsgNI-O7C4ViYc%26r%3DVc8WNnbOuLUeLHThveNrfQ%26m%3DCo66JxJLVdXZ1nE4rOirebC8pa2UYHb2Iq2hCcsTJeTPWg6MsCZecvZpBjlRsdbm%26s%3DG4kVHjmrguSg0y3GTaceBu-gTE3TNm9t_qQCYrO2B3g%26e%3D&data=05%7C02%7Csimgarc%40sandia.gov%7C89acaf434cc245a45de508de0a69fdeb%7C7ccb5a20a303498cb0c129007381b574%7C1%7C0%7C638959647503267191%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rqNoq0nQsbjv44czF%2F%2BIUbE492dGXiUilLBK6y2HuJA%3D&reserved=0">linklings</a>.
-</p>
-
-
-<h2>Proceedings</h2>
-<p>
-SCA/HPCAsia 2026 plans to provide an electronic proceedings publication
-for accepted workshop papers. In past years, SCA/HPCAsia workshop papers
-have been published in ACM-affiliated proceedings. 
-</p>
-
-<h2>Best Paper Award</h2>
-<p>
-The Best Full and Short Paper Award will be selected on the basis of explicit recommendations of the reviewers and their scoring towards the paper’s originality and quality. 
-</p> 
-
-<h2>Special Issue Journal</h2>
-<strong>TBD</strong><br>
-<!--
-<p>
-Selected best papers of ExHET will be considered for publication in a special issue of the international journal  <a href="https://www.mdpi.com/journal/applsci/special_issues/3UWRR556BA">Applied Sciences (Heterogeneous Computing Solutions)</a> and <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems/about/call-for-special-issues">FGCS (High-performance Computing Heterogeneous Systems and Subsystems)</a>
-</p> 
--->
-
-<!--
-<h2><strong>Keynote (Taisuke Boku, Center for Computational Sciences, University of Tsukuba):</strong></h2> <strong>Extreme Heterogeneity on HPC/AI - What is the next stage?</strong>
--->
-<!--
-<font color="#FFFFFF"><img src="./images/T-Boku-face.jpg" alt="Dr. Taisuke Boku" border="1" align="right" class="right" width="400" height="auto"/></font>
--->
-<!--
-<p>
-<img
-  src="{{ site.baseurl }}{% link /events/images/T-Boku-face.jpg %}"
-  alt="Dr. Taisuke Boku"
-  class="keynote-photo"
-  loading="lazy"
-  width="400"
-  style="float:right; max-width:100%; height:auto; margin:0 0 1rem 1rem; border:1px solid #ccc; border-radius:4px;"
-/>
-
-Heterogeneous supercomputing is the common methodology for advanced
-HPC/AI processing especially to respond ultra-high demand of computing
-performance within limited power limitation. GPU is the most commonly
-used device which enables very high degree of instruction level
-parallelism with a huge number of SIMD cores and wide memory bandwidth
-supported by HBM technology. Moreover, the latest GPUs are equipped
-with high computation capability on dense/sparse matrix with low
-precision which is suitable for advanced AI processing such as machine
-learning or LLM. Even on HPC algorithms, such a feature is also applied
-instead of brute-force FP64 computation by hardware. Another complexity of GPU computing is the combination of GPU and CPU
-which have been in a discrete platform connected by traditional PCIe
-bus and are now combined in a single module as like as NVIDIA GH200 or AMD
-MI300A. This technology opens a new era of GPU computing based on
-hardware support for shared address space on memories of multiple
-devices. However, the method to realize this feature depends on the
-vendors, and the performance optimization is not in a simple
-manner. The performance portability on multi-vendor devices is also
-a big challenge. It implies the other accelerators such as FPGA. In this talk, I summarize current technology on accelerated and
-heterogeneous computing represented with GPU devices and other ones,
-the characteristics of hybrid GPU/CPU modules with multiple vendors,
-how to program them, and what is the next challenge of new generation
-of heterogeneous computing. In the talk, I will also mention on
-Japan's next generation national flagship supercomputer and its
-supporting organizations.
-</p>
-
-<p>
-Taisuke Boku has been researching HPC system architecture, system
-software, and performance tuning and evaluation on various scientific
-applications. From 2019 to 2024, he was the Director for Center for
-Computational Sciences, University of Tsukuba, a co-designing center
-with both application researchers and HPC system researchers. He
-played a central roles for development of original supercomputers in
-the center including CP-PACS (ranked as number one in TOP500 in 1996),
-FIRST, PACS-CS, HA-PACS, Cygnus and Pegasus systems, the
-representative supercomputers in Japan. He was the President of HPCI (High Performance Computing
-Infrastructure) Consortium in Japan in 2020-2022, and also currently
-the Vice President in 2024-2026. He was a member of system
-architecture working group of Fugaku supercomputer development. He
-received ACM Gordon Bell Prize in 2011. He has been one of the Program
-Directors of the Feasibility Study of the Next Generation
-Supercomputer in Japan (ÅgPost-FugakuÅh) under MEXT which was
-completed on March 2025, and also one of the Program Directors of the
-Program for Promoting Research on the Supercomputer Fugaku.
-</p>
-
-<!--
-<h2><strong>Invited Speaker (Allen D. Malony, University of Oregon):</strong></h2> <strong>Extreme Heterogeneity Demands Extreme Observability</strong>
-<p>
-The extreme heterogeneity era, coupled with strong interests in exascale and AI computing, will significantly increase the complexity of next-generation HPC systems, applications programming/optimization, workflow execution, power/energy management, and more.  Post-Moore computer architecture innovations are driving heterogeneity and hardware specialization, resulting in a diversity of processors, accelerators, memory, and interconnects.  While there is certainly opportunities to build more powerful HPC systems based on these technology advances, the operational complexity of the heterogeneous system as a whole could make
-it challenging to achieve its full computational potential.  A proposition is presented in the talk that heterogeneity in future HPC systems will necessitate greater support for observability.  Indeed, a stronger argument will be made that observability should be an integral, comprehensive aspect of the systems design overall and that specific hardware and software dedicated to observability needs to be developed. The conclusion of this argument is that future HPC systems and the applications that run on them will not be able to deliver their full capabilities unless extreme observability is present.
-</p>
-<p>
-Allen D. Malony is a Professor in the Department of Computer and Information Science (CIS) at the University of Oregon (UO) and the Director of the Oregon Advanced Computing Institute for Science and Society (OACISS).  Malony's research interests are in parallel computing, performance analysis, supercomputing, and computational science.  He has extensive experience in performance analysis of parallel systems and has developed performance evaluation tools for a variety of HPC machines.  In particular, Malony's research group develops the TAU Performance System (TM), a leading open source parallel performance tool suite in use by many academic, governmental, and industrial projects around the world.  He is CEO and Director of ParaTools, Inc., founded with Sameer Shende, who is the President and Director.  ParaTools specializes in performance engineering for high-performance computing (HPC).
-</p>
--->
-
-<!--
-<h2><strong>Panel:</strong></h2> <strong>Challenges and Solutions for the upcoming Extreme Heterogeneity Era</strong>
-<p>
-During the panel discussion, the panelists and those participants in the workshop will have the opportunity to discuss the fundamentals of 
-extreme heterogeneity: challenges and solutions.
-</p>
-<strong>Panelists:</strong>
-<p>
-<strong>TBA</strong>
-</p>
-
-<p>
-</p><h2>Registration</h2>
-<p> 
-Information about registration at <a href="https://www.sca-hpcasia2026.jp">SCA/HPC Asia 2026 website</a>.
-</p>
--->
