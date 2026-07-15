@@ -38,7 +38,7 @@ header-includes:
     <a href="#invited-talks">Speakers</a>
     <a href="#organizers">Organizers</a>
     <a href="#steering">Steering</a>
-    <a href="#programme-committee">Committee</a>
+    <a href="#program-committee">Committee</a>
     <a href="#submission">Submission</a>
     <a href="#registration">Registration</a>
   </nav>
@@ -311,8 +311,8 @@ header-includes:
     </div>
   </section>
 
-  <section class="aai-section" id="programme-committee">
-    <h2>Programme Committee</h2>
+  <section class="aai-section" id="program-committee">
+    <h2>Program Committee</h2>
     <div class="aai-pc-grid">
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/alomairy.jpg" alt="Rabab Alomairy"></div>
@@ -445,10 +445,10 @@ header-includes:
   <section class="aai-section" id="submission">
     <h2>Manuscript Submission</h2>
     <p>
-      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are not yet open.</strong>
+      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are open now.</strong>
     </p>
     <p>
-      All papers submitted for the official proceedings must use the IEEE proceedings template (two-column, US letter, conference mode for LaTeX). Please ensure your call for papers and author instructions reference the correct template, available here: <a href="https://www.ieee.org/conferences/publishing/templates">https://www.ieee.org/conferences/publishing/templates</a>.
+      All papers submitted for the official proceedings must use the IEEE proceedings template (two-column, US letter, conference mode for LaTeX). Please use the correct template from this link: <a href="https://www.ieee.org/conferences/publishing/templates">https://www.ieee.org/conferences/publishing/templates</a>.
     </p>
   </section>
 
