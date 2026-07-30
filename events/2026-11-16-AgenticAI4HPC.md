@@ -469,9 +469,10 @@ header-includes:
   <section class="aai-section">
     <h2>Reproducibility</h2>
     <p>
-      Submitted papers must meet the requirements of the
-      <a href="https://sc26.supercomputing.org/program/papers/reproducibility-initiative/">SC26 reproducibility initiative</a>,
-      including Artifact Description (AD) and Artifact Evaluation (AE). Paper submissions are single-blinded; reviewers will not be known to the authors. The technical committee will be instructed to strive toward an ethical and transparent peer-review process, including declaring conflicts of interest with the authors. Each paper will receive at least three independent reviews. Acceptance criteria will be determined solely on the technical merits of the work, its impact on the accessibility of the presented paper, and the quality of the final manuscript.
+      As part of a major initiative that aims to increase the level of reproducibility and replicability of results, AgenticAI4HPC invites authors of technical papers to submit optional appendix information that can promote better reproducibility of computational results. Submitted Artifact Description (AD) and Artifact Evaluation (AE) appendices should follow the SC conference model and be included in the submitted manuscript (see the <a href="https://sc26.supercomputing.org/program/papers/reproducibility-initiative/">SC26 reproducibility initiative</a>).
+    </p>
+    <p>
+      A manuscript cannot be disqualified based on information provided or not provided in the AD/AE appendices, nor if the appendix is not available. The availability and quality of an appendix can be used in ranking. In particular, if two manuscripts are of similar quality, the existence and quality of the AD/AE appendices can be part of the evaluation process. The workshop will not evaluate the AD/AE appendices beyond the ACM Artifacts Available Badge.
     </p>
   </section>
 
