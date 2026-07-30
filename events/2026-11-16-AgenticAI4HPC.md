@@ -72,6 +72,7 @@ header-includes:
           <li>Automated modernization of legacy HPC applications</li>
           <li>AI-driven refactoring for scalability, maintainability, and portability</li>
           <li>Sustainable software engineering practices enabled by agentic systems</li>
+          <li>Agentic AI for hybrid HPC–quantum programming, code translation, and portability</li>
         </ul>
       </li>
       <li>
@@ -91,6 +92,7 @@ header-includes:
           <li>Hardware–software–application co-design with autonomous agents</li>
           <li>Productivity tools and AI copilots for HPC developers</li>
           <li>Trust, transparency, and reproducibility in agent-driven HPC systems</li>
+          <li>Agentic AI for HPC facility operations: scheduling, resource management, energy, and monitoring</li>
         </ul>
       </li>
       <li>
@@ -333,6 +335,11 @@ header-includes:
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/bhattacharjee.jpeg" alt="Arijit Bhattacharjee"></div>
         <div class="aai-pc-name">Arijit Bhattacharjee</div>
         <div class="aai-pc-aff">Iowa State University, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/castello.jpg" alt="Adrián Castelló"></div>
+        <div class="aai-pc-name">Adrián Castelló</div>
+        <div class="aai-pc-aff">Universitat Politècnica de València, Spain</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/catlett.jpg" alt="Charlie Catlett"></div>
