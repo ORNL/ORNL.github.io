@@ -72,6 +72,7 @@ header-includes:
           <li>Automated modernization of legacy HPC applications</li>
           <li>AI-driven refactoring for scalability, maintainability, and portability</li>
           <li>Sustainable software engineering practices enabled by agentic systems</li>
+          <li>Agentic AI for hybrid HPC–quantum programming, code translation, and portability</li>
         </ul>
       </li>
       <li>
@@ -91,6 +92,7 @@ header-includes:
           <li>Hardware–software–application co-design with autonomous agents</li>
           <li>Productivity tools and AI copilots for HPC developers</li>
           <li>Trust, transparency, and reproducibility in agent-driven HPC systems</li>
+          <li>Agentic AI for HPC facility operations: scheduling, resource management, energy, and monitoring</li>
         </ul>
       </li>
       <li>
@@ -335,6 +337,11 @@ header-includes:
         <div class="aai-pc-aff">Iowa State University, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/castello.jpg" alt="Adrián Castelló"></div>
+        <div class="aai-pc-name">Adrián Castelló</div>
+        <div class="aai-pc-aff">Universitat Politècnica de València, Spain</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/catlett.jpg" alt="Charlie Catlett"></div>
         <div class="aai-pc-name">Charlie Catlett</div>
         <div class="aai-pc-aff">Argonne National Laboratory, USA</div>
@@ -469,9 +476,10 @@ header-includes:
   <section class="aai-section">
     <h2>Reproducibility</h2>
     <p>
-      Submitted papers must meet the requirements of the
-      <a href="https://sc26.supercomputing.org/program/papers/reproducibility-initiative/">SC26 reproducibility initiative</a>,
-      including Artifact Description (AD) and Artifact Evaluation (AE). Paper submissions are single-blinded; reviewers will not be known to the authors. The technical committee will be instructed to strive toward an ethical and transparent peer-review process, including declaring conflicts of interest with the authors. Each paper will receive at least three independent reviews. Acceptance criteria will be determined solely on the technical merits of the work, its impact on the accessibility of the presented paper, and the quality of the final manuscript.
+      As part of a major initiative that aims to increase the level of reproducibility and replicability of results, AgenticAI4HPC invites authors of technical papers to submit optional appendix information that can promote better reproducibility of computational results. Submitted Artifact Description (AD) and Artifact Evaluation (AE) appendices should follow the SC conference model and be included in the submitted manuscript (see the <a href="https://sc26.supercomputing.org/program/papers/reproducibility-initiative/">SC26 reproducibility initiative</a>).
+    </p>
+    <p>
+      A manuscript cannot be disqualified based on information provided or not provided in the AD/AE appendices, nor if the appendix is not available. The availability and quality of an appendix can be used in ranking. In particular, if two manuscripts are of similar quality, the existence and quality of the AD/AE appendices can be part of the evaluation process. The workshop will not evaluate the AD/AE appendices beyond the ACM Artifacts Available Badge.
     </p>
   </section>
 
