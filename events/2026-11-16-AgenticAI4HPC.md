@@ -151,12 +151,12 @@ header-includes:
       </li>
       <li>
         <span class="aai-label">Acceptance</span>
-        <span class="aai-date">September 7, 2026</span>
+        <span class="aai-date">September 4, 2026</span>
         <small>(AoE)</small>
       </li>
       <li>
         <span class="aai-label">Camera Ready</span>
-        <span class="aai-date">September 20, 2026</span>
+        <span class="aai-date">September 25, 2026</span>
         <small>(AoE)</small>
       </li>
       <li>
