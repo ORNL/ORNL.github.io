@@ -146,7 +146,7 @@ header-includes:
     <ul class="aai-dates">
       <li>
         <span class="aai-label">Submission</span>
-        <span class="aai-date">August 7, 2026</span>
+        <span class="aai-date">August 10, 2026</span>
         <small>(AoE)</small>
       </li>
       <li>
