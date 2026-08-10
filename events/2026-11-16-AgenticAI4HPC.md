@@ -452,7 +452,7 @@ header-includes:
   <section class="aai-section" id="submission">
     <h2>Manuscript Submission</h2>
     <p>
-      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are open now.</strong>
+      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length (<strong> Single Blind <strong>), formatted in the standard IEEE conference format including references (Only AD/AE is out of the 10 page limit). All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are open now.</strong>
     </p>
     <p>
       All papers submitted for the official proceedings must use the IEEE proceedings template (two-column, US letter, conference mode for LaTeX). Please use the correct template from this link: <a href="https://www.ieee.org/conferences/publishing/templates">https://www.ieee.org/conferences/publishing/templates</a>.
