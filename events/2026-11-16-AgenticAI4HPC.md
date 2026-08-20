@@ -337,6 +337,11 @@ header-includes:
         <div class="aai-pc-aff">Iowa State University, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/cankur.jpg" alt="Onur Cankur"></div>
+        <div class="aai-pc-name">Onur Cankur</div>
+        <div class="aai-pc-aff">University of Maryland, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/castello.jpg" alt="Adrián Castelló"></div>
         <div class="aai-pc-name">Adrián Castelló</div>
         <div class="aai-pc-aff">Universitat Politècnica de València, Spain</div>
@@ -347,14 +352,34 @@ header-includes:
         <div class="aai-pc-aff">Argonne National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/cernuda.jpg" alt="Jaime Cernuda"></div>
+        <div class="aai-pc-name">Jaime Cernuda</div>
+        <div class="aai-pc-aff">Illinois Institute of Technology, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/diehl.jpg" alt="Patrick Diehl"></div>
         <div class="aai-pc-name">Patrick Diehl</div>
         <div class="aai-pc-aff">Los Alamos National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/ding.jpg" alt="Yi Ding"></div>
+        <div class="aai-pc-name">Yi Ding</div>
+        <div class="aai-pc-aff">University of Tennessee, Knoxville, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/doerfert.jpg" alt="Johannes Doerfert"></div>
         <div class="aai-pc-name">Johannes Doerfert</div>
         <div class="aai-pc-aff">Lawrence Livermore National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/dominguez.jpg" alt="Jered Dominguez-Trujillo"></div>
+        <div class="aai-pc-name">Jered Dominguez-Trujillo</div>
+        <div class="aai-pc-aff">Los Alamos National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/etienne.jpg" alt="Nichole Etienne"></div>
+        <div class="aai-pc-name">Nichole Etienne</div>
+        <div class="aai-pc-aff">Emory University, USA</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/garciadegonzalo.jpg" alt="Simon Garcia De Gonzalo"></div>
@@ -367,6 +392,21 @@ header-includes:
         <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/gonzalez-tallada.jpg" alt="Marc Gonzalez-Tallada"></div>
+        <div class="aai-pc-name">Marc Gonzalez-Tallada</div>
+        <div class="aai-pc-aff">Universitat Politècnica de Catalunya, Spain</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/guha.jpg" alt="Arjun Guha"></div>
+        <div class="aai-pc-name">Arjun Guha</div>
+        <div class="aai-pc-aff">Northeastern University, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/gupta.jpg" alt="Deepti Gupta"></div>
+        <div class="aai-pc-name">Deepti Gupta</div>
+        <div class="aai-pc-aff">Texas A&amp;M University-Central Texas, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/iraola.jpg" alt="Eduardo Iraola"></div>
         <div class="aai-pc-name">Eduardo Iraola</div>
         <div class="aai-pc-aff">Barcelona Supercomputing Center, Spain</div>
@@ -377,9 +417,19 @@ header-includes:
         <div class="aai-pc-aff">Texas State University, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/jain.jpg" alt="Rajeev Jain"></div>
+        <div class="aai-pc-name">Rajeev Jain</div>
+        <div class="aai-pc-aff">Argonne National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/katagiri.jpg" alt="Takahiro Katagiri"></div>
         <div class="aai-pc-name">Takahiro Katagiri</div>
         <div class="aai-pc-aff">Nagoya University, Japan</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/kitson.jpg" alt="Joy Kitson"></div>
+        <div class="aai-pc-name">Joy Kitson</div>
+        <div class="aai-pc-aff">University of Maryland, USA</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/lan.jpg" alt="Zhiling Lan"></div>
@@ -402,9 +452,29 @@ header-includes:
         <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/mora.jpg" alt="Fabian Mora"></div>
+        <div class="aai-pc-name">Fabian Mora</div>
+        <div class="aai-pc-aff">Brium Inc., USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/nader.jpg" alt="Noujoud Nader"></div>
+        <div class="aai-pc-name">Noujoud Nader</div>
+        <div class="aai-pc-aff">Louisiana State University, USA</div>
+      </div>
+      <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/nichols.jpg" alt="Daniel Nichols"></div>
         <div class="aai-pc-name">Daniel Nichols</div>
-        <div class="aai-pc-aff">University of Maryland, USA</div>
+        <div class="aai-pc-aff">Lawrence Livermore National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/ohshima.jpg" alt="Satoshi Ohshima"></div>
+        <div class="aai-pc-name">Satoshi Ohshima</div>
+        <div class="aai-pc-aff">Kyushu University, Japan</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/ohtsuji.jpg" alt="Hiroki Ohtsuji"></div>
+        <div class="aai-pc-name">Hiroki Ohtsuji</div>
+        <div class="aai-pc-aff">Fujitsu Limited, Japan</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/petit.jpg" alt="Eric Petit"></div>
@@ -415,6 +485,16 @@ header-includes:
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/pophale.jpg" alt="Swaroop Pophale"></div>
         <div class="aai-pc-name">Swaroop Pophale</div>
         <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/popov.jpg" alt="Mihail Popov"></div>
+        <div class="aai-pc-name">Mihail Popov</div>
+        <div class="aai-pc-aff">INRIA, France</div>
+      </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/sichen.jpg" alt="Sichen Tao"></div>
+        <div class="aai-pc-name">Sichen Tao</div>
+        <div class="aai-pc-aff">Tohoku University, Japan</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/sridhar.jpg" alt="Upasana Sridhar"></div>
@@ -446,13 +526,18 @@ header-includes:
         <div class="aai-pc-name">Aaron Young</div>
         <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
       </div>
+      <div class="aai-pc-card">
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/zhang.jpg" alt="Naifeng Zhang"></div>
+        <div class="aai-pc-name">Naifeng Zhang</div>
+        <div class="aai-pc-aff">Carnegie Mellon University, USA</div>
+      </div>
     </div>
   </section>
 
   <section class="aai-section" id="submission">
     <h2>Manuscript Submission</h2>
     <p>
-      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length (<strong> Single Blind </strong>), formatted in the standard IEEE conference format including references (Only AD/AE is out of the 10 page limit). All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are open now.</strong>
+      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length (<strong> Single Blind </strong>), formatted in the standard IEEE conference format including references (Only AD/AE is out of the 10 page limit). All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are closed.</strong>
     </p>
     <p>
       All papers submitted for the official proceedings must use the IEEE proceedings template (two-column, US letter, conference mode for LaTeX). Please use the correct template from this link: <a href="https://www.ieee.org/conferences/publishing/templates">https://www.ieee.org/conferences/publishing/templates</a>.
