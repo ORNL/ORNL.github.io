@@ -372,7 +372,7 @@ header-includes:
         <div class="aai-pc-aff">Lawrence Livermore National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
-        <div class="aai-pc-photo"></div>
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/dominguez.jpg" alt="Jered Dominguez-Trujillo"></div>
         <div class="aai-pc-name">Jered Dominguez-Trujillo</div>
         <div class="aai-pc-aff">Los Alamos National Laboratory, USA</div>
       </div>
@@ -392,7 +392,7 @@ header-includes:
         <div class="aai-pc-aff">Oak Ridge National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
-        <div class="aai-pc-photo"></div>
+        <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/gonzalez-tallada.jpg" alt="Marc Gonzalez-Tallada"></div>
         <div class="aai-pc-name">Marc Gonzalez-Tallada</div>
         <div class="aai-pc-aff">Universitat Politècnica de Catalunya, Spain</div>
       </div>
