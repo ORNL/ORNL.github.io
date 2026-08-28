@@ -379,7 +379,7 @@ header-includes:
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/etienne.jpg" alt="Nichole Etienne"></div>
         <div class="aai-pc-name">Nichole Etienne</div>
-        <div class="aai-pc-aff">Emory University, USA</div>
+        <div class="aai-pc-aff">Sandia National Laboratory, USA</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/garciadegonzalo.jpg" alt="Simon Garcia De Gonzalo"></div>
