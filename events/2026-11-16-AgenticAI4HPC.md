@@ -108,35 +108,95 @@ header-includes:
   </section>
 
   <section class="aai-section" id="program">
-    <h2>Program (Tentative)</h2>
+    <h2>Program</h2>
     <div class="aai-schedule">
       <div class="aai-row">
         <span class="aai-time">9:00 – 9:05</span>
-        <span class="aai-talk-title">Opening Remarks</span>
+        <span class="aai-talk-title">Opening Remarks <span class="aai-authors">Jeffrey S. Vetter, Oak Ridge National Laboratory</span></span>
       </div>
       <div class="aai-row aai-highlight">
-        <span class="aai-time">9:05 – 9:40</span>
-        <span class="aai-talk-title"><strong>Invited Talk 1 (Ali Jannesari):</strong> From Code Generation to Performance Reasoning — Agentic AI for the Autonomous HPC Stack</span>
+        <span class="aai-time">9:05 – 9:30</span>
+        <span class="aai-talk-title"><strong>Invited Talk (Ali Jannesari):</strong> From Code Generation to Performance Reasoning: Agentic AI for the Autonomous HPC Stack</span>
       </div>
       <div class="aai-row">
-        <span class="aai-time">9:40 – 10:00</span>
-        <span class="aai-talk-title">Paper Presentation 1</span>
+        <span class="aai-time">9:30 – 9:40</span>
+        <span class="aai-talk-title">Fabrica: Agentic CUDA-to-CSL Translation and Optimization for Wafer-Scale Systems <span class="aai-authors">Yuebo Luo, Eliu Huerta, Venkatram Vishwanath, Caiwen Ding, Rajeev Thakur, Le Chen</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">9:40 – 9:50</span>
+        <span class="aai-talk-title">Agentic MLIR-to-QIR Translation with Dual-Backend Testing: A Hybrid Deterministic and LLM Approach <span class="aai-authors">Sharmin Afrose, Vicente Leyton-Ortega, Narasinga Rao Miniskar, Elaine Wong, Travis S. Humble</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">9:50 – 10:00</span>
+        <span class="aai-talk-title">Descriptive Execution of HPC Applications and Workflows <span class="aai-authors">Vanessa Sochat, Daniel Milroy</span></span>
       </div>
       <div class="aai-row aai-break">
         <span class="aai-time">10:00 – 10:30</span>
         <span class="aai-talk-title">Morning break</span>
       </div>
-      <div class="aai-row aai-highlight">
-        <span class="aai-time">10:30 – 11:05</span>
-        <span class="aai-talk-title"><strong>Invited Talk 2 (Abhinav Bhatele):</strong> Agentic Approaches to Generate and Optimize Parallel Code</span>
+      <div class="aai-row">
+        <span class="aai-time">10:30 – 10:40</span>
+        <span class="aai-talk-title">Bridging Reasoning and Verification: A Generative AI Approach to Chemistry <span class="aai-authors">Evan Antoniuk, Shehtab Zaman, Tal Ben-Nun, Bhavya Kailkhura, Kenneth Chiu, Brian Van Essen</span></span>
       </div>
       <div class="aai-row">
-        <span class="aai-time">11:05 – 12:20</span>
-        <span class="aai-talk-title">Paper Presentations 2</span>
+        <span class="aai-time">10:40 – 10:50</span>
+        <span class="aai-talk-title">Towards Efficient HPC Systems for Agents: Challenges and Opportunities <span class="aai-authors">Yunjia Zheng, Bintang Dwi Marthen, Zachary Pan, Minghao Li, Raminder Singh, Manasvita Joshi, Minlan Yu, Juncheng Yang</span></span>
       </div>
       <div class="aai-row">
-        <span class="aai-time">12:20 – 12:30</span>
-        <span class="aai-talk-title">Distinguished Paper Recognition and Closing</span>
+        <span class="aai-time">10:50 – 11:00</span>
+        <span class="aai-talk-title">Diamond Agent: Agentic Control of Federated HPC Resources as a Service <span class="aai-authors">Haotian Xie, Junlin Chen, Mingkai Zheng, Yifan Zhu, Minu Mathew, Max Burnette, Yadu Babuji, Volodymyr Kindratenko, Shivaram Venkataraman, Kyle Chard, Ian Foster, Zhao Zhang</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:00 – 11:10</span>
+        <span class="aai-talk-title">The Agentic Memory Hierarchy: Cross-State I/O Characterization for a Unified Substrate <span class="aai-authors">Avinash Kumar Maurya, Bogdan Nicolae, M. Mustafa Rafique</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:10 – 11:20</span>
+        <span class="aai-talk-title">Building a Trusted Agentic AI system for HPC Systems Management <span class="aai-authors">Subrahmanya Vinayak Joshi, Aalap Tripathy, Scott Hinchley, Deepak Nanjundaiah, Sergey Serebryakov, Shreni Agrawal, Gayathri Saranathan, Tarun Kumar, Don Bahls, Charlie Vollmer, Robert Wisniewski, Jeff Hanson, Tejas Hegde, Prince Jain</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:20 – 11:30</span>
+        <span class="aai-talk-title">LLMs as Packagers of HPC Software <span class="aai-authors">Caetano Melone, Daniel Nichols, Konstantinos Parasyris, Todd Gamblin, Harshitha Menon</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:30 – 11:36</span>
+        <span class="aai-talk-title">PILOT: Parallel Implementation via LLM-Oriented Translation <span class="aai-authors">Antonino Ciordia, Adrián Castelló, Enrique S. Quintana-Ortí, Pedro Valero-Lara</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:36 – 11:42</span>
+        <span class="aai-talk-title">More with Less: Efficient Parallel Scientific Code Translation via an Agent-Skill Workflow <span class="aai-authors">Jianuo Shen, Pengyi Xu, Bo Zhang</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:42 – 11:48</span>
+        <span class="aai-talk-title">An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS <span class="aai-authors">Yuzhong Shen, Masha Sosonkina, Peng Xu, Mark Gordon</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:48 – 11:54</span>
+        <span class="aai-talk-title">ParslBox: Computational Materials Workflow Executor for AI-Agents on High-Performance Computing Systems <span class="aai-authors">Fakhrul Hasan Bhuiyan, Thang Duc Pham, Murat Keceli, Huihuo Zheng, Christine Simpson, Álvaro Vázquez-Mayagoitia</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">11:54 – 12:00</span>
+        <span class="aai-talk-title">Security Mediation and Adversarial Evaluation for Agentic AI at HPC Facilities <span class="aai-authors">Emily Herron, Jack Hutchins, Amir Sadovnik, Jesse Hines, Vanessa Lama, Junqi Yin, Feiyi Wang</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:00 – 12:06</span>
+        <span class="aai-talk-title">The LLM Writes Only the Algorithm: Bit-Identical Fortran-to-C++ Substitution, and What It Certifies <span class="aai-authors">Kevin Menear, Olivia Hull, Jon Rood, Daniel Zalkind</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:06 – 12:12</span>
+        <span class="aai-talk-title">ScaleTether: Graph Rewriting and Selective Timing Prediction for Megatron Parallelism <span class="aai-authors">Yukito Tajima, Kazuki Fujii, Rio Yokota</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:12 – 12:18</span>
+        <span class="aai-talk-title">PROV-AGENT-LOOP: Provenance Data Management for Agentic Loop Engineering <span class="aai-authors">Valesca Moura, Gabriele Padovani, Daniel de Oliveira, Rafael Ferreira da Silva, Renan Souza</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:18 – 12:24</span>
+        <span class="aai-talk-title">Recall Is Not Honesty: Benchmarking Multi-Agent Architectures for Trustworthy HPC Operational Analytics <span class="aai-authors">Kartik Shinde, Tirthankar Ghosal, Sreekantam Sai Venkat, Siddhant Senapati, Sanjay Das, Tilak Kasturi, Khaled Ibrahim, Hugo Hernandez, Kanad Basu, Sukumar Rangan</span></span>
+      </div>
+      <div class="aai-row">
+        <span class="aai-time">12:24 – 12:30</span>
+        <span class="aai-talk-title">Distinguished Paper Recognition and Closing <span class="aai-authors">Jeffrey S. Vetter, Oak Ridge National Laboratory</span></span>
       </div>
     </div>
   </section>
@@ -167,14 +227,14 @@ header-includes:
   </section>
 
   <section class="aai-section" id="invited-talks">
-    <h2>Invited Talks</h2>
+    <h2>Invited Talk</h2>
 
     <div class="aai-speaker">
       <div class="aai-speaker-photo">
         <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/jannesari.jpg" alt="Ali Jannesari">
       </div>
       <div class="aai-speaker-body">
-        <span class="aai-tag">Invited Talk 1 · Confirmed</span>
+        <span class="aai-tag">Invited Talk</span>
         <div class="aai-talk">From Code Generation to Performance Reasoning: Agentic AI for the Autonomous HPC Stack</div>
         <div class="aai-who"><strong>Ali Jannesari</strong> — Associate Professor, Iowa State University, USA</div>
         <p class="aai-bio">
@@ -183,65 +243,6 @@ header-includes:
       </div>
     </div>
 
-    <div class="aai-speaker">
-      <div class="aai-speaker-photo">
-        <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/bhatele.jpg" alt="Abhinav Bhatele">
-      </div>
-      <div class="aai-speaker-body">
-        <span class="aai-tag">Invited Talk 2 · Confirmed</span>
-        <div class="aai-talk">Agentic Approaches to Generate and Optimize Parallel Code</div>
-        <div class="aai-who"><strong>Abhinav Bhatele</strong> — Associate Professor, University of Maryland, USA</div>
-        <p class="aai-bio">
-          Abhinav Bhatele is an Associate Professor in the Department of Computer Science and Director of the Parallel Software and Systems Group at the University of Maryland, College Park. His research interests are broadly in systems and AI, with a focus on parallel computing and distributed AI. He has published research in parallel programming models and runtimes, network design and simulation, applications of machine learning to parallel systems, parallel deep learning, and on analyzing, visualizing, modeling and optimizing the performance of parallel software and systems.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <section class="aai-section" id="organizers">
-    <h2>Organizers (Contact us)</h2>
-    <div class="aai-people aai-stack">
-      <div class="aai-person aai-has-photo">
-        <div class="aai-person-photo">
-          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/monil.jpg" alt="Mohammad Alaul Haque Monil">
-        </div>
-        <div class="aai-person-info">
-          <span class="aai-name">Mohammad Alaul Haque Monil <small>(Chair)</small></span>
-          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
-          <span class="aai-mail"><a href="mailto:monilm@ornl.gov">monilm@ornl.gov</a></span>
-        </div>
-      </div>
-      <div class="aai-person aai-has-photo">
-        <div class="aai-person-photo">
-          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/valero-lara.jpg" alt="Pedro Valero-Lara">
-        </div>
-        <div class="aai-person-info">
-          <span class="aai-name">Pedro Valero-Lara <small>(Co-Chair)</small></span>
-          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
-          <span class="aai-mail"><a href="mailto:valerolarap@ornl.gov">valerolarap@ornl.gov</a></span>
-        </div>
-      </div>
-      <div class="aai-person aai-has-photo">
-        <div class="aai-person-photo">
-          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/mukunoki.jpg" alt="Daichi Mukunoki">
-        </div>
-        <div class="aai-person-info">
-          <span class="aai-name">Daichi Mukunoki <small>(Co-Chair)</small></span>
-          <span class="aai-aff">Nagoya University, Japan</span>
-          <span class="aai-mail"><a href="mailto:mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp">mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</a></span>
-        </div>
-      </div>
-      <div class="aai-person aai-has-photo">
-        <div class="aai-person-photo">
-          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/nicolae.jpg" alt="Bogdan Nicolae">
-        </div>
-        <div class="aai-person-info">
-          <span class="aai-name">Bogdan Nicolae <small>(Co-Chair)</small></span>
-          <span class="aai-aff">Argonne National Laboratory, USA</span>
-          <span class="aai-mail"><a href="mailto:bnicolae@anl.gov">bnicolae@anl.gov</a></span>
-        </div>
-      </div>
-    </div>
   </section>
 
   <section class="aai-section" id="steering">
@@ -379,12 +380,12 @@ header-includes:
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/etienne.jpg" alt="Nichole Etienne"></div>
         <div class="aai-pc-name">Nichole Etienne</div>
-        <div class="aai-pc-aff">Sandia National Laboratory, USA</div>
+        <div class="aai-pc-aff">Sandia National Laboratories, USA</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/garciadegonzalo.jpg" alt="Simon Garcia De Gonzalo"></div>
         <div class="aai-pc-name">Simon Garcia De Gonzalo</div>
-        <div class="aai-pc-aff">Sandia National Laboratory, USA</div>
+        <div class="aai-pc-aff">Sandia National Laboratories, USA</div>
       </div>
       <div class="aai-pc-card">
         <div class="aai-pc-photo"><img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/godoy.jpg" alt="William Godoy"></div>

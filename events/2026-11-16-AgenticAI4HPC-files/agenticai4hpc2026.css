@@ -298,6 +298,7 @@ header.page-header { display: none !important; }
   color: var(--aai-accent);
 }
 .aai-page .aai-talk-title { color: var(--aai-text); }
+.aai-page .aai-authors { display: block; font-size: .85em; opacity: .75; margin-top: .15rem; }
 
 /* ---------- Important dates ---------- */
 .aai-page .aai-dates {
