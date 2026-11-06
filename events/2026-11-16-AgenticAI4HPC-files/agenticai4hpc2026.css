@@ -299,6 +299,8 @@ header.page-header { display: none !important; }
 }
 .aai-page .aai-talk-title { color: var(--aai-text); }
 .aai-page .aai-authors { display: block; font-size: .85em; opacity: .75; margin-top: .15rem; }
+.aai-page .aai-subhead { margin: 1rem 0 .25rem; font-size: .8rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--aai-accent); }
+.aai-page .aai-abstract { margin: 0 0 .5rem; }
 
 /* ---------- Important dates ---------- */
 .aai-page .aai-dates {
