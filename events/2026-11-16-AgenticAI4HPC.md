@@ -250,6 +250,53 @@ header-includes:
 
   </section>
 
+ <section class="aai-section" id="organizers">
+    <h2>Organizers (Contact us)</h2>
+    <div class="aai-people aai-stack">
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/monil.jpg" alt="Mohammad Alaul Haque Monil">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Mohammad Alaul Haque Monil <small>(Chair)</small></span>
+          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:monilm@ornl.gov">monilm@ornl.gov</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/valero-lara.jpg" alt="Pedro Valero-Lara">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Pedro Valero-Lara <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Oak Ridge National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:valerolarap@ornl.gov">valerolarap@ornl.gov</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/mukunoki.jpg" alt="Daichi Mukunoki">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Daichi Mukunoki <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Nagoya University, Japan</span>
+          <span class="aai-mail"><a href="mailto:mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp">mukunoki.daichi.p2@f.mail.nagoya-u.ac.jp</a></span>
+        </div>
+      </div>
+      <div class="aai-person aai-has-photo">
+        <div class="aai-person-photo">
+          <img src="{{ site.baseurl }}/events/2026-11-16-AgenticAI4HPC-files/nicolae.jpg" alt="Bogdan Nicolae">
+        </div>
+        <div class="aai-person-info">
+          <span class="aai-name">Bogdan Nicolae <small>(Co-Chair)</small></span>
+          <span class="aai-aff">Argonne National Laboratory, USA</span>
+          <span class="aai-mail"><a href="mailto:bnicolae@anl.gov">bnicolae@anl.gov</a></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
   <section class="aai-section" id="steering">
     <h2>Steering Committee</h2>
     <div class="aai-people aai-grid-3">
